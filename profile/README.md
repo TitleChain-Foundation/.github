@@ -52,7 +52,7 @@ The M5 Build pathway turns the standards into a practical progression:
 ACTIVATE  → establish I AM identity and human authority
 ORGANIZE  → structure knowledge, records, goals, offers and operations
 BUILD     → create accountable agents, workflows, communications and tools
-LAUNCH    → connect the business pathway, customer journey, ledger and plan
+LAUNCH    → connect the business pathway, customer journey, ledger, payments and plan
 GROW      → operate independently, participate cooperatively or serve others
 ```
 
@@ -113,6 +113,54 @@ Initial specification families include:
 - **M5Bank Index and Exchange** — standards for finance, economics, market research, price discovery, exchange, indices and transparent economic measurement
 - **Production and Producer Indices** — global real-time pricing, output, capacity, production and producer-price intelligence designed around what economies make and contribute—not only what consumers buy
 - **Enterprise Treasury and Digital Assets** — standards enabling companies, cooperatives and institutions to mint and manage their own authorized digital assets in treasury and map them to real-time global price, production and producer indices
+
+## From real-world asset to lawful digital settlement
+
+The M5 economic architecture connects legal identity, asset classification, title, programmable execution, ledgering, blockchain settlement, payments and adjudication as one accountable lifecycle.
+
+```text
+REAL-WORLD ASSET OR COMMERCIAL INSTRUMENT
+        ↓
+M5CLASSIFICATION  → classify the asset, instrument, rights, risk and regulatory lane
+        ↓
+TITLECHAIN / TCID → register title, provenance, issuer, jurisdiction and controlling authority
+        ↓
+RICARDIAN CONTRACT → bind human-readable legal terms to machine-executable clauses
+        ↓
+M5NUMSCRIPT       → express programmable asset, treasury, payment and settlement logic
+        ↓
+M5LEDGER          → record assets, obligations, movements, receipts and real-time reconciliation
+        ↓
+BLOCKCHAIN + M5x402 / AP2 → authorize and execute transfer, payment, clearing and settlement
+        ↓
+M5BANK INDEX & EXCHANGE → map the asset to price, production, producer and market indices
+        ↓
+JURISDICTION POOL / JUSTITIA / NYCP26 → route disputes and adjudication under applicable sovereign rules
+```
+
+### M5Classification for all real-world assets
+
+Every physical, financial, productive, intellectual, environmental or digital asset entering the system is assigned an **M5Classification**. The classification identifies the asset class, legal character, ownership and control, jurisdiction, regulatory lane, settlement requirements, index mapping and lifecycle rules. This creates a common classification layer for land and natural resources, commodities, energy, infrastructure, property, intellectual property, company equity, receivables, commercial paper, trade instruments, credentials and other real-world assets.
+
+The M5 Global Index & Exchange Registry organizes Ricardian contracts, asset registries and indices under the ICSN sovereign namespace. Its sovereign indices provide discovery and registry structures across the full economy, including natural resources, mining, energy, agriculture, financial instruments, property, infrastructure, intellectual property, media, labor and public-interest assets.
+
+### Digital asset ledger, programmable money and payments
+
+- **M5Ledger** is the digital asset ledger and transaction engine: it records assets, obligations, settlements and movements with real-time reconciliation and audit trails.
+- **M5numscript** provides programmable asset management and intelligent token logic for treasury controls, approvals, distributions, escrow, streaming payments, conditional settlement and other governed transaction patterns.
+- **M5Classification** determines what the asset is and which legal, accounting, regulatory and settlement rules apply before it moves.
+- **M5RicardianContracts** binds the legal prose, machine clauses, controlling authority, asset identifiers and settlement terms. The repository supports legacy-to-token migration, TCID/USC identifiers, CEDECO certificates and M2/M3/M4 regulatory lanes.
+- **Blockchain and custody infrastructure** provides verifiable execution, signatures, key controls, anchoring and cross-network settlement while preserving human authorization.
+- **Payments, clearing and settlement** connect M5Ledger to M5x402, AP2 and authorized payment rails for programmable transfers, bank payouts, reconciliation and cross-border settlement.
+- **TitleChain Registry** preserves the asset's authoritative record, provenance, Ricardian binding and jurisdictional continuity throughout its lifecycle.
+
+### Legal, jurisdiction and adjudication pools
+
+Each nation, state, tribe, territory, municipality and authorized institution can maintain its own sovereign registry and legal jurisdiction pool. Transactions and instruments are routed according to the controlling law, verified authority, regulatory lane and agreed dispute process encoded in their Ricardian contract.
+
+**Justitia** is the M5 justice and adjudication framework. It operates adjudication pools, verifies adjudicator credentials and supports transparent dispute resolution under sovereign rules. **NYCP26** is identified within this architecture as the adjudication pathway for international commercial paper, trade instruments, cross-border settlement and related commercial disputes.
+
+This structure does not collapse jurisdictions into one private rulebook. It makes the applicable authority, evidence, contract, settlement record and adjudication path explicit, portable and reviewable.
 
 ## Proof of Life and Human Provenance
 
