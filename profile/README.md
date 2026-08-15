@@ -85,6 +85,8 @@ The Internet Cooperative for Sovereign Networks brings developers, security rese
 
 Initial specification families include:
 
+### Human authority, identity and accountable technology
+
 - **Human Root** — preserving the natural human as the origin of digital identity and delegated authority
 - **POL / Human Provenance** — Proof of Life, Presence, Intent and Authority bound to specific digital actions
 - **Portable Data Origination** — verifiable origin and continuity for human and organizational data
@@ -93,9 +95,24 @@ Initial specification families include:
 - **Synchronization Security** — signed operations, replay resistance, quarantine and recovery across distributed systems
 - **Communications and Collaboration** — portable service identities and accountable participation without making a chat account an identity root
 - **Graph and Context Portability** — continuity across graph, vector, model and storage providers
-- **Economic Interoperability** — portable transaction intent and settlement profiles without a mandatory platform dependency
 - **Public Anchoring and Provenance** — verifiable commitments without placing private human data on public infrastructure
 - **Digital Rights and Control** — testable boundaries for rights, authority, recovery and exit
+
+### Sovereign registries, blockchain and cryptographic infrastructure
+
+- **TitleChain Sovereign Registry** — interoperable title, identity, authority, asset and provenance registries for every nation, state, tribe, territory, municipality and other sovereign or public jurisdiction
+- **Jurisdiction and Registry Interoperability** — portable schemas, identifiers, credentials, records and conformance rules that preserve each jurisdiction's authority while enabling trusted cross-border exchange
+- **Blockchain and Cryptographic Infrastructure** — accountable chains, signatures, proofs, keys, recovery, anchoring and distributed verification without placing private human data on public infrastructure
+- **Real-World Asset Registration** — verifiable issuance, title, custody, transfer, lifecycle and provenance standards for physical, financial, productive and digital assets
+
+### Payments, sovereign currency and the M5 Economic Stack
+
+- **Payments, Clearing and Settlement** — portable payment intent, routing, authorization, clearing, settlement and reconciliation across institutions, networks and jurisdictions
+- **M5 Economic Stack** — the integrated structure for real-world assets, treasury, accounting, double-entry records, ledgers, settlement, reporting and economic interoperability
+- **USC — Universal Sovereign Code** — a common technical framework through which each nation can define, issue and operate its own sovereign currency while preserving its monetary authority
+- **M5Bank Index and Exchange** — standards for finance, economics, market research, price discovery, exchange, indices and transparent economic measurement
+- **Production and Producer Indices** — global real-time pricing, output, capacity, production and producer-price intelligence designed around what economies make and contribute—not only what consumers buy
+- **Enterprise Treasury and Digital Assets** — standards enabling companies, cooperatives and institutions to mint and manage their own authorized digital assets in treasury and map them to real-time global price, production and producer indices
 
 ## Proof of Life and Human Provenance
 
@@ -145,9 +162,17 @@ Priority contribution areas include:
 - Human-rooted and organizational identity
 - Privacy-preserving liveness and consent
 - Verifiable credentials and presentations
-- Cryptographic formats, signatures and key recovery
+- Cryptography, blockchain architecture, signatures, key management and recovery
 - AI-agent delegation and accountability
-- Cooperative and institutional governance
+- National, state, tribal, territorial and municipal registry architecture
+- Land, title, identity, corporate, asset and public-record registry interoperability
+- Payments, clearing, settlement, reconciliation and financial-messaging systems
+- Sovereign currency, central-bank, treasury and monetary-system architecture
+- Real-world assets, accounting, audit, double-entry ledgers and financial reporting
+- Market structure, exchange design, price discovery and index methodology
+- Production economics, producer-price indices, supply systems and real-time economic data
+- Enterprise treasury, digital-asset issuance, custody and lifecycle governance
+- Cooperative, institutional and public-sector governance
 - Secure synchronization and distributed recovery
 - Provenance, content authenticity and digital rights
 - Matrix-based sovereign collaboration
