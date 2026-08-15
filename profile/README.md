@@ -31,7 +31,7 @@ The architecture is designed to scale from:
 ```text
 individuals and sole proprietors
               ↓
-startups and established businesses
+startups, new ventures and established businesses
               ↓
 cooperatives and multi-party ventures
               ↓
@@ -41,6 +41,41 @@ municipalities, governments and sovereign nations
 ```
 
 The 100K Women-Led Ventures initiative is an M5 ecosystem activation program. TitleChain Foundation's role is to steward the open standards, safeguards and interoperability requirements that can support this community—and independent implementations—responsibly.
+
+### From identity to an operating venture
+
+The initiative is designed for women who are starting a new venture, building a startup, connecting an existing business, forming or growing a cooperative, or preparing to serve other communities as an M5Agent.
+
+The M5 Build pathway turns the standards into a practical progression:
+
+```text
+ACTIVATE  → establish I AM identity and human authority
+ORGANIZE  → structure knowledge, records, goals, offers and operations
+BUILD     → create accountable agents, workflows, communications and tools
+LAUNCH    → connect the business pathway, customer journey, ledger and plan
+GROW      → operate independently, participate cooperatively or serve others
+```
+
+Participants build inside a private operating environment organized around portable identity, credentials, files, permissions, records and workflows. Models, vendors and tools may change; the participant's business knowledge and authority should remain portable and under her control.
+
+### Choose your pathway
+
+| I want to… | Start here |
+| --- | --- |
+| Understand the 100K Women-Led Ventures initiative | [Explore M5 Activate](https://m5activate.netlify.app/) |
+| Start a new venture or startup | [Apply to M5 Build](https://m5bank.app/m5-build.html#early-form) |
+| Connect an existing business | [Enter the Bank of Business pathway](https://m5bank.app/m5bank-business.html) |
+| Build or join a cooperative | [Explore cooperatives](https://m5bank.app/cooperatives.html) |
+| Become an M5Agent | [Apply through M5 Build](https://m5bank.app/m5-build.html#early-form) |
+| Develop applications and integrations | [Open M5 developer documentation](https://m5bank.app/m5-dev-docs-private.html) |
+| Sponsor women, venture launches or a cohort | [View sponsor programs](https://m5bank.app/m5-build.html#sponsor) |
+| Fund or partner with the activation initiative | [Enter the partnership pathway](https://m5bank.app/m5-circle.html#apply) |
+| Activate an M5 IAM account | [Go to M5Bank](https://m5bank.app/) |
+
+> **M5 is the commercial activation and implementation layer.** Account applications, IAM activation, cohort enrollment, sponsorship and M5 services occur through M5-operated properties. TitleChain Foundation does not collect M5 account credentials or private participant business records.
+
+Sponsors and partners support defined outcomes—not access to participant identity, vault, conversations or private business data. Any public reporting should be aggregate, consent-based and limited to agreed measures such as activation, participation, completed build milestones and venture launches.
+
 
 ## ICSN — Internet Cooperative for Sovereign Networks
 
