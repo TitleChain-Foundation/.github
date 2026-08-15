@@ -1,252 +1,197 @@
-<p align="left">
-  <img alt="M5Bank" src="https://img.shields.io/badge/M5Bank-Constitutional--Grade-111827?style=for-the-badge" />
-  <img alt="M5Capital" src="https://img.shields.io/badge/M5Capital-Sovereign%20Infrastructure-111827?style=for-the-badge" />
-  <img alt="ICSN" src="https://img.shields.io/badge/ICSN-Standards%20%26%20Naming-111827?style=for-the-badge" />
-  <img alt="TitleChain" src="https://img.shields.io/badge/TitleChain-Registry%20%2B%20TCID-111827?style=for-the-badge" />
-  <img alt="ENSv2" src="https://img.shields.io/badge/ICANN%E2%86%94ENSv2-Universal%20Resolver-111827?style=for-the-badge" />
-  <img alt="Ethereum L1" src="https://img.shields.io/badge/Ethereum-L1%20Anchor%20Path-111827?style=for-the-badge" />
-  <img alt="Cedeco-Certificates" src="https://img.shields.io/badge/Ethereum-L1%20Anchor%20Path-111827?style=for-the-badge" / >
-</p>
+# TitleChain Foundation
 
-# M5Bank & M5Capital Ecosystem
-## ICSN Standards • ICANN→ENSv2 Naming • TitleChain Registry • Constitutional-Grade Financial Sovereignty
+### Open standards for human-rooted identity, accountable technology and sovereign participation
 
-M5Bank is a sovereign financial infrastructure stack that unifies:
-- **Human-first identity + vault custody**
-- **Tokenized real-world assets + compliant settlement**
-- **ICANN DNS + ENSv2 + CEDECO naming credentails under a single hierarchical standard + Swift BRIDGE (Blockchain Registry Interbank Digtial Asset Gateway Exchange)**
-- **Registry-backed provenance for identity, assets, and contracts**
+TitleChain Foundation stewards public-interest standards for human-rooted identity, provenance, digital rights, sovereign data, accountable machine authority and interoperable networks.
 
-Canonical governance, standards, and registry authority:
-- **https://titlechainfoundation.org**
+We are building the shared technical foundations that allow a person, venture, cooperative, institution or sovereign community to participate digitally without surrendering human authority, portability or the right to exit.
 
----
+> **Open the work before every account is activated. Do not open the authority before the human is activated.**
 
-## What This Repo Is
-This repository is the public gateway for:
-- ICSN-aligned standards, templates, and reference implementations
-- ICANN→ENSv2 naming + resolver patterns + BRIDGE (Internet 3.0) M5 Economic Gateway 
-- TitleChain registry interfaces (TCID, proof-of-title events, contract provenance)
-- Git3Hub onboarding workflows (public + private contract pools)
+## Why we are building now
 
-> The sovereign vault is the system of record.  
-> Git3Hub is the collaboration + distribution layer.
+AI agents, digital credentials, distributed systems and programmable economic networks are rapidly gaining the ability to act for people and organizations. These systems need a trustworthy way to answer:
 
----
+- Who is the human root of this action?
+- Was that human present and acting intentionally?
+- What authority was delegated, for what purpose and for how long?
+- Where did the data, content, credential or decision originate?
+- Can the person or organization leave the system without losing identity, records or continuity?
 
-## Governance & Standards
+TitleChain Foundation is developing open, implementation-neutral standards to make those answers portable, reviewable and interoperable.
 
-### ICSN — Internet Corporation for Sovereign Networks
-ICSN defines the global standards layer for sovereign naming, classification, governance roles, and cross-jurisdiction interoperability across:
-- nations
-- states/provinces
-- tribes/indigenous nations
-- cities
-- universities/institutions
-- enterprises/cooperatives
-- individuals
+## Our first activation community: 100K women-led ventures
 
-### TitleChain Foundation
-TitleChain Foundation stewards the registry authority:
-- identity credentials (TCID)
-- title/contract provenance
-- policy gates for institutional participation
-- dispute/attestation frameworks
-- root namespace policy alignment
+Our first major implementation focus is supporting the activation of **100,000 women-led ventures** entering the M5 ecosystem.
 
-### M5Capital
-M5Capital structures capital formation, private pools, and index pathways that fund and scale sovereign infrastructure deployments.
+This community gives developers and standards contributors a real-world environment in which to test infrastructure against the needs of founders and operators—not only abstract systems.
 
----
+The architecture is designed to scale from:
 
-## The Naming Breakthrough: ICANN → ENSv2 (Hierarchy + Roles + Universal Resolver)
+```text
+individuals and sole proprietors
+              ↓
+startups and established businesses
+              ↓
+cooperatives and multi-party ventures
+              ↓
+institutions and public-interest organizations
+              ↓
+municipalities, governments and sovereign nations
+```
 
-We bridge **Web2 identity** (ICANN/DNS) and **Web3 identity** (ENSv2) under one governance standard so users can operate seamlessly with:
-- `bankof.me` (human-friendly gateway)
-- ENS names (cryptographic routing + ownership)
-- a single sovereign vault identity behind both
+The 100K Women-Led Ventures initiative is an M5 ecosystem activation program. TitleChain Foundation's role is to steward the open standards, safeguards and interoperability requirements that can support this community—and independent implementations—responsibly.
 
-### Dual Identity Support (Same Authority, Two Interfaces)
-**Web2 format**
-- `username@bankof.me`
+## ICSN — Internet Cooperative for Sovereign Networks
 
-**ENS format**
-- `username.bankofme.eth`or just name .eth
+ICSN is the Foundation's open standards program.
 
-Both resolve to the same:
-- sovereign vault identity
-- wallet authority
-- registry record(s)
-- contract + payment routing
+The Internet Cooperative for Sovereign Networks brings developers, security researchers, implementers, founders, institutions and public-interest contributors together to develop specifications, test vectors, implementation guidance and conformance tools.
 
----
+Initial specification families include:
 
-## ICSN Hierarchical Naming Convention (Nation → State → Tribe → Institution → Entity → Person)
+- **Human Root** — preserving the natural human as the origin of digital identity and delegated authority
+- **POL / Human Provenance** — Proof of Life, Presence, Intent and Authority bound to specific digital actions
+- **Portable Data Origination** — verifiable origin and continuity for human and organizational data
+- **Credential-to-Capability** — narrow, revocable and time-bounded authority instead of unlimited access
+- **Agent Accountability** — auditable delegation and deterministic authority boundaries for AI and software agents
+- **Synchronization Security** — signed operations, replay resistance, quarantine and recovery across distributed systems
+- **Communications and Collaboration** — portable service identities and accountable participation without making a chat account an identity root
+- **Graph and Context Portability** — continuity across graph, vector, model and storage providers
+- **Economic Interoperability** — portable transaction intent and settlement profiles without a mandatory platform dependency
+- **Public Anchoring and Provenance** — verifiable commitments without placing private human data on public infrastructure
+- **Digital Rights and Control** — testable boundaries for rights, authority, recovery and exit
 
-ICSN naming is role-based and hierarchical. Authority is explicit at every layer.
+## Proof of Life and Human Provenance
 
-### Root Jurisdictions (Examples)
-**Nation chain**
-- `unitedstateschain.eth`
-- `bhutanchain.eth`
-- `mexicochain.eth`
+POL is being developed as a portable, cryptographically verifiable way to connect a living human to a specific digital action.
 
-**State / province chain**
-- `californiachain.eth`
-- `wyomingchain.eth`
+POL is not intended to publish a face, fingerprint, voice recording or other raw biometric. It is designed to carry verifiable commitments showing that a valid human-controlled event occurred and was bound to defined intent, scope and time.
 
-**Tribal / indigenous sovereign naming (patterns)**
-- `<tribe>.unitedstateschain.eth`
-- `<tribe>.californiachain.eth` *(when appropriate to local governance model)*
+We distinguish four related proofs:
 
-**Institution / university (patterns)**
-- `<institution>.californiachain.eth`
-- `<institution>.<nationchain>.eth`
+| Proof | Question |
+| --- | --- |
+| Proof of Life | Was a living human involved? |
+| Proof of Presence | Was the human participating in this event? |
+| Proof of Intent | Did the human intentionally approve this action? |
+| Proof of Authority | Did the human possess authority to approve it? |
 
-**Programs / platforms under jurisdiction (patterns)**
-- `bankofme.<jurisdiction>.eth`
-- `bankofbiz.<jurisdiction>.eth`
-- `bankofus.<jurisdiction>.eth`
-- `m5gov.<jurisdiction>.eth`
+POL remains an **Implementer Draft / Request for Comment**. Liveness alone does not prove identity, truth, ownership or unlimited authority.
 
-**Entities + people (patterns)**
-- `<entity>.bankofbiz.<jurisdiction>.eth`
-- `<username>.bankofme.<jurisdiction>.eth`
+## Human authority over machine authority
 
-> These are standards/patterns. Exact namespace issuance is governed by ICSN roles and TitleChain registry policy.
+The foundational rule is simple:
 
----
+> **An AI does not create a human's Proof of Life. The human creates the proof; the AI may only reference authority derived from it.**
 
-## Roles System (Delegation & Authority)
+Consequential machine activity should be able to answer:
 
-ICSN naming is not flat. It is delegated via certified roles:
+```text
+Who authorized this action?
+        ↓
+What credential and role supported that authority?
+        ↓
+What capability was delegated?
+        ↓
+What scope, duration and revocation rules applied?
+        ↓
+What evidence and provenance record the result?
+```
 
-- **Root Steward**: ICSN standards + TitleChain namespace policy
-- **Sovereign Operators**: nation-chain operators (top-level jurisdiction governance)
-- **Sub-Sovereign Operators**: states/provinces/tribes (delegated issuance authority)
-- **Institution Operators**: universities, agencies, cooperatives (credentialed)
-- **Entity Admins**: verified businesses/orgs (scope-limited issuance)
-- **Individuals**: self-owned identity (vault-controlled)
+Probabilistic systems may reason inside an authorized workflow. Authority, permissions and accountable execution must remain bounded and auditable.
 
-Roles determine:
-- subname issuance rights
-- resolver configuration permissions
-- contract publishing permissions
-- compliance visibility tiers
-- upgrade + recovery pathways
+## Build with us
 
----
+We invite developers, security researchers, standards specialists, designers and implementation partners to help build infrastructure for the 100K women-led-venture activation and the broader communities that follow.
 
-## Universal Resolver (Seamless Web2/Web3 Resolution)
+Priority contribution areas include:
 
-Resolution path (conceptual):
-User/App → **Universal Resolver** → ENS records → Vault Identity → Routing → Execution
+- Human-rooted and organizational identity
+- Privacy-preserving liveness and consent
+- Verifiable credentials and presentations
+- Cryptographic formats, signatures and key recovery
+- AI-agent delegation and accountability
+- Cooperative and institutional governance
+- Secure synchronization and distributed recovery
+- Provenance, content authenticity and digital rights
+- Matrix-based sovereign collaboration
+- SDKs, schemas and reference implementations
+- Conformance suites and adversarial test vectors
+- Accessibility and low-resource deployment
+- Cross-jurisdiction and public-sector interoperability
 
-This enables:
-- wallet compatibility across ecosystems
-- consistent name resolution across L1/L2
-- institutional routing without breaking user sovereignty
-- future-safe identity paths
+### Ways to participate
 
----
+```text
+EXPLORE  → read the drafts and architecture
+REVIEW   → open issues, RFC feedback and threat-model findings
+BUILD    → create test vectors, SDKs and reference implementations
+PILOT    → test integrations with participating ventures
+LEAD     → earn explicitly delegated reviewer or maintainer capability
+SCALE    → support cooperative, institutional and sovereign deployments
+```
 
-## Ethereum L1 Anchor Path (Seamless Upgrade, No Broken Names)
+Public GitHub contributions can begin before every contributor has an M5 identity or Foundation credential. Official review, signing, registry, funding or governance authority requires separate and explicit activation.
 
-Canonical identity and naming authority remain **Ethereum L1 compatible**:
-- execution can occur on L2s for cost/throughput
-- naming + canonical resolution remains upgrade-safe and broadly interoperable
-- no forced migrations
-- no namespace fragmentation
+## Standards are not products
 
----
+We maintain a deliberate separation:
 
-## Technical Architecture (High Level)
+```text
+OPEN STANDARD
+    ≠
+OPEN REFERENCE IMPLEMENTATION
+    ≠
+TRUST-HELD PROPRIETARY IP
+    ≠
+COMMERCIAL OPERATOR LICENSE
+```
 
-### Vault-First (Non-Bypassable)
-All sensitive operations flow:
-User → Sovereign Vault → Policy Engine → Execution Layer
+M5 and TitleChain may implement and operationalize these standards, but no M5 product, service, credential, blockchain or commercial relationship is required to review or independently implement the neutral public core.
 
-- human-in-the-loop cannot be bypassed
-- vault retains canonical records, logs, and exports
-- external processors/models are treated as stateless unless explicitly mirrored
+Funding supports work; it does not purchase a standards decision, merge, vote, certification or suppression of legitimate security findings.
 
-### Registry + Provenance
-TitleChain registry binds:
-- identity credentials (TCID)
-- titles/contracts
-- governance events
-- release provenance for code and contract artifacts
+## Public launch status
 
-### Settlement Layer (Reference Model)
-- delivery-versus-payment patterns for compliant exchange
-- escrow/atomic execution patterns where applicable
-- jurisdiction-aware settlement preferences
+The standards program is preparing for **Mode A — Public Review Draft**.
 
----
+Early materials are being published for technical review and implementation feedback. They are not yet approved global standards, production certifications, legal identity determinations, government recognition or grants of Foundation authority.
 
-## Git3Hub: Sovereign Code & Contract Vault
+Before a core specification reaches 1.0, the program will seek:
 
-We are launching **Git3Hub** as the sovereign collaboration layer for:
-- code repositories
-- contract templates
-- verified agreement libraries
-- credentialed partner releases
+- Independently written implementations
+- Cross-implementation verification
+- Positive, negative and adversarial test vectors
+- Security, privacy and threat-model review
+- Independent cryptographic review where applicable
+- Compatibility and migration analysis
+- Conformance-suite results
+- External implementation experience beyond M5 and TitleChain
 
-Git3Hub supports two contract pools:
+## Public contribution boundaries
 
-### Public Pool (Gift-to-World)
-- open standards
-- public-good templates
-- forkable contracts with attribution + provenance
+- Public submissions are non-confidential unless an expressly designated private security process is used.
+- Never submit identity documents, biometrics, master credentials, private business records, payment credentials or recovery secrets to a public repository.
+- A public contribution is not automatically employment, funding, certification, governance membership or production authority.
+- A pilot is not a legal, regulatory, investment or government approval.
+- Security findings should use the repository's designated reporting process once published.
 
-### Private Pool (Credentialed Access)
-- token-gated or credential-gated repos
-- enterprise licensing libraries
-- investor/member-only releases
-- institution-grade audit trails
+## Repository roadmap
+
+- **`.github`** — Foundation profile and community-wide information
+- **`icsn-standards`** — public specifications, governance, RFCs and conformance material
+- **`reference-implementations`** — neutral examples and interoperability tools as they are approved
+
+Private Foundation operations and proprietary M5 implementation material remain outside the public standards repositories.
+
+## Contact
+
+- Website: [titlechainfoundation.org](https://titlechainfoundation.org)
+- Email: [hello@titlechainfoundation.org](mailto:hello@titlechainfoundation.org)
+- GitHub: [TitleChain-Foundation](https://github.com/TitleChain-Foundation)
 
 ---
 
-## Move Your IP Into Your Sovereign Bank Account (Onboarding Flow)
-
-When Git3Hub onboarding opens, creators will be able to:
-
-1) Claim identity  
-- `username@bankof.me` and/or ENS identity
-
-2) Create an IP Vault  
-- canonical ownership record
-
-3) Register the work  
-- code / contracts / models / datasets / media  
-- receive registry provenance references
-
-4) Choose distribution  
-- Public Pool or Private Pool
-
-5) Set licensing + economics  
-- gift, one-time license, subscription, usage-based fees, royalties, partner splits
-
-6) Publish + route payments  
-- ENS naming can serve as identity + payment routing + contract addressability
-
----
-
-## Monetization Options (Pick One or Combine)
-- Gift-to-world
-- One-time license
-- Subscription access
-- Per-use execution fees
-- Royalties on downstream usage
-- Partner wallet splits
-- Cooperative pool revenue sharing
-
----
-
-## How to Join
-
-### Developers
-```bash
-# Placeholder — update to your canonical Git3Hub endpoint when live
-git clone https://sovereign-code.m5bank.dev/M5Capital/M5Bank
-cd M5Bank
+**TitleChain Foundation**  
+Human-rooted. Open by design. Portable by right. Accountable in operation.
