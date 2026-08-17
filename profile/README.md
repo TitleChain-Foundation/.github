@@ -4,13 +4,35 @@
 
 TitleChain Foundation stewards public-interest standards for human-rooted identity, provenance, digital rights, sovereign data, accountable machine authority and interoperable networks.
 
-We are building the shared technical foundations that allow a person, venture, cooperative, institution or sovereign community to participate digitally without surrendering human authority, portability or the right to exit.
+We are building the shared technical foundations that allow a person—and only then a venture, cooperative, institution or sovereign community—to participate digitally without surrendering human authority, portability or the right to exit.
 
-> **Open the work before every account is activated. Do not open the authority before the human is activated.**
+> **The living human is the first authority. Establish proof of human life, presence, intent and authority; register the human-rooted sovereign-person title; only then activate accounts, credentials, legal entities, assets, agents or transactions.**
+
+### Human-first activation order
+
+```text
+LIVING HUMAN
+      ↓
+PROOF OF LIFE + PRESENCE + INTENT + AUTHORITY
+      ↓
+SOVEREIGN-PERSON TITLE → the person is the root of identity and authority
+      ↓
+PERSON-BOUND CREDENTIALS → roles, rights and capabilities derive from that human root
+      ↓
+LEGAL ENTITIES + ASSETS → businesses, organizations and property are formed, owned or controlled by authorized people
+      ↓
+DELEGATED AUTHORITY → narrow, purpose-bound and revocable permissions
+      ↓
+ACCOUNTS + AGENTS + NETWORK ACTIONS → activation occurs only within verified human authority
+```
+
+The registry must not create, own or replace the person. It records a title and authority root held by the sovereign person. Credentials attest attributes, roles or capabilities derived from that root. Legal entities, assets and machine authority follow afterward and must remain traceable to an authorized living human.
+
+A person may then carry that portable root into municipal, state, tribal, territorial, national and cross-border registries without surrendering it to any platform, institution or jurisdiction.
 
 ## Why we are building now
 
-AI agents, digital credentials, distributed systems and programmable economic networks are rapidly gaining the ability to act for people and organizations. These systems need a trustworthy way to answer:
+AI agents, digital credentials, distributed systems and programmable economic networks are rapidly gaining the ability to act for people and organizations. Before any of them can receive or exercise authority, these systems need a trustworthy way to answer:
 
 - Who is the human root of this action?
 - Was that human present and acting intentionally?
@@ -200,6 +222,23 @@ What evidence and provenance record the result?
 ```
 
 Probabilistic systems may reason inside an authorized workflow. Authority, permissions and accountable execution must remain bounded and auditable.
+
+## Languages, systems and interoperability
+
+TitleChain Foundation welcomes contributors across modern, emerging and legacy technology stacks. Our work connects secure infrastructure, AI, distributed networks, public registries, financial systems and institutional platforms that must remain interoperable across generations of technology.
+
+**Core language expertise:** Rust, Python, Go, TypeScript, Java, C, C++, C#/.NET, COBOL, SQL and Solidity.
+
+- **Rust, C and C++** — secure systems, cryptography, networking, blockchain and high-performance infrastructure
+- **Python** — AI, economic research, analytics, automation and reference implementations
+- **Go** — distributed systems, network services, synchronization and cloud infrastructure
+- **TypeScript** — web platforms, SDKs, agents, developer tooling and interoperable applications
+- **Java and C#/.NET** — banking, payments, enterprise systems and institutional integrations
+- **COBOL and other legacy environments** — mainframe, government and financial-system interoperability
+- **SQL** — ledgers, accounting, registries, reconciliation, audit and reporting
+- **Solidity** — smart contracts, digital assets and blockchain settlement
+
+We also welcome expertise in ISO 20022, FIX, SWIFT, TCP/IP, OAuth/OIDC, DID/VC, WebAuthn, JSON Schema and other financial, identity, security and networking standards. Languages and vendors may change; human authority, provenance, portability, auditability and the right to exit must remain intact.
 
 ## Build with us
 
