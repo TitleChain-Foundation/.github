@@ -30,6 +30,48 @@ The registry must not create, own or replace the person. It records a title and 
 
 A person may then carry that portable root into municipal, state, tribal, territorial, national and cross-border registries without surrendering it to any platform, institution or jurisdiction.
 
+## Start here
+
+Our first public priority is to make the work visible and bring the right contributors together.
+
+1. **[Follow the TitleChain Foundation](https://github.com/TitleChain-Foundation)** for organization-wide updates.
+2. **[Star and watch ICSN Standards](https://github.com/TitleChain-Foundation/icsn-standards)** to support the public standards program and follow RFCs and releases.
+3. **[Join the public discussion](https://github.com/orgs/TitleChain-Foundation/discussions)** to introduce yourself and name the area where you can contribute.
+4. **[Read the participation pathway](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/PARTICIPATE.md)** to review, build, document, test, fund or steward the work.
+5. **[Review M5Bank onboarding](https://m5bank.app/)** if you want to join the separate IAM/M5BankOfMe waitlist or implementation pathway.
+6. **[Explore cohort sponsorship](https://m5bank.app/m5-circle.html)** to help fund developers, programmers and activation work. Sponsorship does not purchase standards authority.
+
+GitHub participation, Foundation roles and M5 onboarding are separate. Following, starring, watching or contributing does not automatically create an M5 account, credential, proof-of-humanity status, governance authority or legal relationship.
+
+## How the public Foundation connects to private deployment
+
+| Layer | Visibility | Responsibility |
+| --- | --- | --- |
+| **TitleChain Foundation** | Public | Neutral stewardship, governance, public review, safeguards and interoperability requirements. The Foundation does not operate sovereign member accounts or collect private M5 participant records. |
+| **ICSN Standards** | Public | Implementation-neutral specifications, RFCs, licensing designations, conformance work and public contribution. |
+| **M5Capital** | Operating and deployment layer | Supports the capital, implementation and deployment work that turns reviewed standards into operating infrastructure. Funding or implementation does not control Foundation standards decisions. |
+| **M5Ecosystem** | Private production repository | The integrated M5 engine and deployment stack, including implementation code, operational integrations and sovereign-member-account infrastructure. It remains private to protect production security, operational controls and proprietary implementation material. |
+| **M5Bank** | Consent-based member service | Activates IAM/M5BankOfMe accounts and holds private member-facing records through M5-operated properties. Public GitHub activity is not an account application. |
+| **Public evidence of progress** | Public summaries | Standards releases, public RFCs, implementation milestones, aggregate measures and approved Data Room reporting can demonstrate progress without exposing private code, credentials or member data. |
+
+The relationship is deliberate:
+
+```text
+TITLECHAIN FOUNDATION  → neutral rules, safeguards and public review
+          ↓
+ICSN STANDARDS         → portable specifications and conformance criteria
+          ↓
+M5CAPITAL              → operating support, capital and deployment coordination
+          ↓
+PRIVATE M5ECOSYSTEM    → production engine, integrations and deployment stack
+          ↓
+M5BANK                 → consent-based sovereign member accounts and services
+          ↓
+PUBLIC PROGRESS        → aggregate milestones, releases and implementation evidence
+```
+
+Private implementation does not become a Foundation standard merely because it is deployed by M5. A public standard does not require publication of production secrets or personal member data.
+
 ## Why we are building now
 
 AI agents, digital credentials, distributed systems and programmable economic networks are rapidly gaining the ability to act for people and organizations. Before any of them can receive or exercise authority, these systems need a trustworthy way to answer:
@@ -180,7 +222,9 @@ The M5 Global Index & Exchange Registry organizes Ricardian contracts, asset reg
 
 Each nation, state, tribe, territory, municipality and authorized institution can maintain its own sovereign registry and legal jurisdiction pool. Transactions and instruments are routed according to the controlling law, verified authority, regulatory lane and agreed dispute process encoded in their Ricardian contract.
 
-**Justitia** is the M5 justice and adjudication framework. It operates adjudication pools, verifies adjudicator credentials and supports transparent dispute resolution under sovereign rules. **NYCP26** is identified within this architecture as the adjudication pathway for international commercial paper, trade instruments, cross-border settlement and related commercial disputes.
+**Justitia** is a proposed future M5 justice and adjudication framework. It is intended to support credentialed adjudication pools and transparent dispute resolution under applicable sovereign rules. **NYCP26** is a working design reference for a possible pathway covering international commercial paper, trade instruments, cross-border settlement and related commercial disputes; it is not represented as an operating court, public authority or internationally recognized tribunal.
+
+This research does not imply affiliation with, endorsement by or authority from the United Nations, any government, court, standards body or international organization.
 
 This structure does not collapse jurisdictions into one private rulebook. It makes the applicable authority, evidence, contract, settlement record and adjudication path explicit, portable and reviewable.
 
@@ -301,7 +345,7 @@ Funding supports work; it does not purchase a standards decision, merge, vote, c
 
 ## Public launch status
 
-The standards program is preparing for **Mode A — Public Review Draft**.
+The standards program is operating in **Mode A — Public Review Draft**.
 
 Early materials are being published for technical review and implementation feedback. They are not yet approved global standards, production certifications, legal identity determinations, government recognition or grants of Foundation authority.
 
@@ -326,11 +370,14 @@ Before a core specification reaches 1.0, the program will seek:
 
 ## Repository roadmap
 
-- **`.github`** — Foundation profile and community-wide information
-- **`icsn-standards`** — public specifications, governance, RFCs and conformance material
-- **`reference-implementations`** — neutral examples and interoperability tools as they are approved
+- **`.github`** — public Foundation profile, organization-wide community information and participation entry point
+- **`icsn-standards`** — primary public repository for specifications, governance, RFCs, licensing designations and conformance material
+- **Private M5Ecosystem** — M5Capital-supported production engine, operational integrations and deployment stack; represented publicly through approved summaries and implementation evidence, not by exposing production controls or member data
+- **Private M5Bank implementation/template material** — sovereign-member-account implementation work kept separate from the neutral public standards core
+- **Private M5-IBC reference work** — upstream interchain reference material that must preserve original provenance and licensing and must not be represented as an original Foundation standard
+- **Future `reference-implementations`** — neutral examples, test tools and interoperability components only as they are reviewed and approved for public release
 
-Private Foundation operations and proprietary M5 implementation material remain outside the public standards repositories.
+Private Foundation operations, production security material, member information and proprietary M5 implementation remain outside the public standards repositories.
 
 ## Contact
 
