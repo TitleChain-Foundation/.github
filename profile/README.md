@@ -6,6 +6,8 @@ TitleChain Foundation stewards public specifications and review processes that h
 
 Our public standards program is **ICSN — Internet Cooperative for Sovereign Networks**. The work is developed through open RFCs, documented governance, public review, conformance evidence, and independent implementation.
 
+> **Help accelerate the public work.** **[Sponsor the TitleChain Foundation](https://github.com/sponsors/TitleChain-Foundation)** with a monthly or one-time contribution. Organizations can also **[sponsor a named development, security, infrastructure, education, accessibility, or activation objective](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/SPONSORS.md#custom-organizational-sponsorships)**.
+
 ## Constitutional stewardship
 
 **Built for stewardship, not acquisition.**
@@ -30,6 +32,7 @@ The public summary does not replace the Trust instrument, Foundation governing d
 ## Start here
 
 - **[Explore ICSN Standards](https://github.com/TitleChain-Foundation/icsn-standards)** — specifications, schemas, RFCs, governance, and conformance work.
+- **[Sponsor the public work](https://github.com/sponsors/TitleChain-Foundation)** — make a monthly or one-time contribution through the approved GitHub Sponsors checkout.
 - **[Review open issues](https://github.com/TitleChain-Foundation/icsn-standards/issues)** — choose a concrete task or suggest an improvement.
 - **[Join Discussions](https://github.com/orgs/TitleChain-Foundation/discussions)** — ask questions and participate in public review.
 - **[Read the contribution guide](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/CONTRIBUTING.md)** — understand the RFC and contribution workflow.
@@ -75,10 +78,12 @@ Sponsorship helps fund public specifications, security review, conformance mater
 
 Sponsorship does **not** purchase governance authority, conformance status, preferential technical decisions, ownership of the commons, or access to private participant data.
 
+- **[Sponsor now—monthly or one time](https://github.com/sponsors/TitleChain-Foundation)**
+- [Explore custom organizational sponsorships](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/SPONSORS.md#custom-organizational-sponsorships)
 - [How sponsorship works](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/SPONSORS.md)
 - [Public impact reporting](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/SPONSOR-IMPACT.md)
 
-Higher-level organizational partnerships are available through a conversation so scope, recognition, independence, conflicts, and public impact reporting can be agreed responsibly. **[Connect with the Foundation](mailto:hello@titlechainfoundation.org).**
+Custom organizational sponsorships are available through a conversation so scope, duration, deliverables, recognition, independence, conflicts, privacy boundaries, and public impact reporting can be agreed responsibly. **[Discuss an organizational sponsorship](mailto:hello@titlechainfoundation.org?subject=ICSN%20Organizational%20Sponsorship).**
 
 **Fund the commons. Never own the commons.**
 
