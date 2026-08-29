@@ -1,0 +1,46 @@
+title: "[Question] "
+labels: ["question", "needs-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ask a focused question about Foundation standards, governance, implementation, or contribution.
+  - type: textarea
+    id: question
+    attributes:
+      label: What is your question?
+      placeholder: State the question as clearly and specifically as possible.
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Which area does this concern?
+      multiple: true
+      options:
+        - Identity
+        - Authority
+        - Data
+        - Agents
+        - Credentials
+        - Registry
+        - Evidence
+        - Privacy or security
+        - Governance
+        - Conformance
+        - Contribution process
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Explain what you are trying to do and include relevant links or specification sections.
+    validations:
+      required: true
+  - type: textarea
+    id: attempted
+    attributes:
+      label: What have you already tried?
+      description: Share research, implementation attempts, or related discussions.
