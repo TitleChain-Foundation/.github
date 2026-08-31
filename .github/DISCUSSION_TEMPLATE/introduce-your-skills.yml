@@ -1,0 +1,70 @@
+title: "[Introduction] "
+labels: ["needs-review", "help-wanted"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Introduce the public skills you would like to contribute. This does not create organization membership, employment, compensation, an account, or authority.
+  - type: dropdown
+    id: skill
+    attributes:
+      label: What is your primary skill?
+      options:
+        - Architecture
+        - Engineering
+        - Cybersecurity
+        - Privacy and consent
+        - Identity and access
+        - Legal and governance
+        - Testing and conformance
+        - Documentation
+        - Accessibility and UX
+        - Curriculum and education
+        - Hardware and infrastructure
+        - Finance and economics
+        - Research
+        - Community and partnerships
+        - Other or cross-functional
+    validations:
+      required: true
+  - type: textarea
+    id: experience
+    attributes:
+      label: What experience would you like to bring?
+      description: Share only public information needed to understand your contribution interests.
+    validations:
+      required: true
+  - type: dropdown
+    id: first-contribution
+    attributes:
+      label: What would you like to do first?
+      options:
+        - Review the demo or onboarding
+        - Review a standard or architecture
+        - Test security, privacy or accessibility
+        - Contribute code, schemas or conformance evidence
+        - Improve documentation or curriculum
+        - Research law, policy, markets or prior art
+        - Support contributors, partnerships or funding
+        - Help me find a bounded task
+    validations:
+      required: true
+  - type: dropdown
+    id: availability
+    attributes:
+      label: Approximate availability
+      options:
+        - One focused review
+        - A few hours per month
+        - A few hours per week
+        - Project based
+        - Exploring
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Public participation
+      options:
+        - label: I understand this Discussion and my GitHub username are public.
+          required: true
+        - label: I have not included private identity, account, wallet, business, or security information.
+          required: true
