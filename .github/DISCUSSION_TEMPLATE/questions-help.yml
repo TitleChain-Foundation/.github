@@ -1,15 +1,27 @@
-title: "[Question] "
+title: "[Question or feedback] "
 labels: ["question", "needs-review"]
 body:
   - type: markdown
     attributes:
       value: |
-        Ask a focused question about Foundation standards, governance, implementation, or contribution.
+        Ask a focused question or review the public demo and onboarding. Do not post private identity, account, wallet, business, or security information.
+  - type: dropdown
+    id: purpose
+    attributes:
+      label: What are you here to do?
+      options:
+        - Review the demo or onboarding experience
+        - Ask a standards or governance question
+        - Ask how to contribute
+        - Report a public documentation problem
+        - Other public feedback
+    validations:
+      required: true
   - type: textarea
     id: question
     attributes:
-      label: What is your question?
-      placeholder: State the question as clearly and specifically as possible.
+      label: What did you observe or want to ask?
+      placeholder: Name the page or step and describe one clear question or observation.
     validations:
       required: true
   - type: dropdown
@@ -28,6 +40,8 @@ body:
         - Privacy or security
         - Governance
         - Conformance
+        - Demo or onboarding
+        - Accessibility or usability
         - Contribution process
         - Other
     validations:
@@ -42,5 +56,5 @@ body:
   - type: textarea
     id: attempted
     attributes:
-      label: What have you already tried?
-      description: Share research, implementation attempts, or related discussions.
+      label: What would you recommend?
+      description: Suggest one concrete improvement, next step, or source to review.
