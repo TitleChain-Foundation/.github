@@ -8,9 +8,9 @@ We steward the public ICSN standards and are building pathways for women-led ven
 
 | I want to | Go here |
 | --- | --- |
-| Ask, introduce myself, share an idea, or offer a skill | [Join Foundation Discussions](https://github.com/orgs/TitleChain-Foundation/discussions) |
-| Review the demo or onboarding experience | [Post public feedback](https://github.com/orgs/TitleChain-Foundation/discussions/categories/questions-help) |
-| Join the activation waitlist | [Open the M5 member pathway](https://m5member.netlify.app/) |
+| Ask, introduce myself, share an idea, or offer a skill | [Use Contributor Q&A](https://github.com/orgs/TitleChain-Foundation/discussions/categories/questions-help) |
+| Review the demo or explore an activation program | [Visit Programs & Activation](https://github.com/orgs/TitleChain-Foundation/discussions/categories/public-infrastructure-activation) |
+| Join the M5POD activation waitlist | [Reserve your M5POD](https://m5podactivationdemo.netlify.app/waitlist.html) |
 | Review standards or claim scoped work | [Explore ICSN Standards](https://github.com/TitleChain-Foundation/icsn-standards) |
 | Fund public work and contributor capacity | [Sponsor the Foundation](https://github.com/sponsors/TitleChain-Foundation) |
 | Discuss an organizational partnership | [Contact the Foundation](mailto:hello@titlechainfoundation.org) |
@@ -43,3 +43,9 @@ Publication, participation, waitlist enrollment, or sponsorship does not create 
 [Governance](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/GOVERNANCE.md) | [Security](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/SECURITY.md) | [Code of Conduct](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/CODE_OF_CONDUCT.md) | [Trust and Non-Capture](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/TRUST-AND-NON-CAPTURE.md)
 
 **Follow. Review. Build. Sponsor. Bring one more capable person into the work.**
+
+## Press and media
+
+**September 3, 2026:** [TitleChain Foundation Opens Sovereign AI & Digital Asset Commons, Invites Builders](https://www.prlog.org/13168578-titlechain-foundation-opens-sovereign-ai-digital-asset-commons-invites-builders.html)
+
+For current Foundation information, visit [TitleChainFoundation.org](https://titlechainfoundation.org/). For M5 product, technology, architecture, research, and public media, visit [M5Bank.app](https://m5bank.app/). Media and partnership inquiries may be directed to [hello@titlechainfoundation.org](mailto:hello@titlechainfoundation.org).
