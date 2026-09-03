@@ -1,4 +1,4 @@
-# BUILD WITH US — Open Issues, Standards + First-100
+# BUILD WITH US — Open Issues, Standards + First Activation
 
 The fastest way to help is to choose one bounded public problem and leave behind useful evidence.
 
@@ -32,9 +32,9 @@ ICSN contains public specifications, governance, schemas, and conformance work. 
 
 Independent implementers are welcome. No M5 enrollment is required to read, review, fork, test, or implement ICSN work.
 
-## First-100 and the path toward 100K
+## First activation and the path toward 100K
 
-Early activation work is intended to test the human, technical, privacy, curriculum, contributor, and economic pathways needed before responsible scale. The First-100 framing is a learning and activation pathway, not a promise of selection, funding, employment, certification, or a completed cohort.
+The first supported cohort prioritizes **75 women**. The broader project activation group brings the first activation to **100 total participants**. This phase is intended to test the human, technical, privacy, curriculum, contributor, and economic pathways needed before responsible scale. It is a learning and activation pathway, not a promise of selection, funding, employment, certification, or a completed cohort.
 
 The broader Power of Her Purse goal is to support **up to 100,000 women-led ventures**. Progress must be demonstrated through real participation, accepted work, evidence, trainer capacity, funding, and accountable outcomes rather than audience claims.
 

@@ -1,6 +1,6 @@
 ---
 name: "Community Launch Steward"
-description: "Use when launching or updating TitleChain Foundation GitHub Discussions, community onboarding, pinned welcome posts, Contributor Q&A forms, Programs & Activation, Foundation announcements, Power of Her Purse, First 100, 100K Women, sponsorship pathways, or the Discussion-to-Issue contributor flow."
+description: "Use when launching or updating TitleChain Foundation GitHub Discussions, community onboarding, pinned welcome posts, Contributor Q&A forms, Programs & Activation, Foundation announcements, Power of Her Purse, the first activation of 75 women and 100 total participants, 100K Women, sponsorship pathways, or the Discussion-to-Issue contributor flow."
 argument-hint: "Describe the GitHub community launch or onboarding update to prepare."
 tools: [read, search, edit, execute, web, todo]
 user-invocable: true
@@ -29,7 +29,7 @@ Do not turn Discussions into another copy of the website, press room, Sponsors p
 
 Keep `Foundation Announcements` as the maintainer-published official record, with public comments enabled. Maintain only two broad community categories unless the user explicitly approves expansion:
 
-- `Programs & Activation`: open-ended discussion for Power of Her Purse, First 100, the goal to support up to 100,000 women-led ventures, the M5POD demo, professional pathways, associations, and trainers.
+- `Programs & Activation`: open-ended discussion for Power of Her Purse, the first activation of 75 women and 100 total participants, the goal to support up to 100,000 women-led ventures, the M5POD demo, professional pathways, associations, and trainers.
 - `Contributor Q&A`: question-and-answer format for contribution fit, needed skills, IAM versus M5Member, public standards versus M5 implementation, and where to begin.
 
 Treat these four global pins as the public front door:
@@ -37,7 +37,7 @@ Treat these four global pins as the public front door:
 1. `START HERE — TitleChain Foundation + ICSN`
 2. `ANNOUNCEMENT — Power of Her Purse + 100K Women`
 3. `PARTICIPATE — Contribute, Sponsor, Sponsor an Engineer`
-4. `BUILD WITH US — Open Issues, Standards + First-100`
+4. `BUILD WITH US — Open Issues, Standards + First Activation`
 
 The launch announcement belongs in `Foundation Announcements` after the `/press` page is live. Confirm that dependency before recommending publication.
 
@@ -59,7 +59,7 @@ Add only the minimum public-data warning and acknowledgment needed to prevent pe
 Before drafting or editing, inspect the current repository state and identify the authoritative source for every material claim. Prefer:
 
 1. Published Foundation press material for announcement facts and dates.
-2. The GitHub Sponsors page for sponsorship tiers, First-100 and 100K activation details, free IAM distinctions, and non-capture language.
+2. The GitHub Sponsors page for sponsorship tiers, first-activation and 100K activation details, free IAM distinctions, and non-capture language.
 3. `icsn-standards` governance, security, participation, contributor-pathway, and initiative documents for public standards claims.
 4. The organization profile for concise routing and public commitments.
 
