@@ -1,60 +1,46 @@
-title: "[Question or feedback] "
-labels: ["question", "needs-review"]
+title: "[Contributor Q&A] "
+labels: ["question"]
 body:
   - type: markdown
     attributes:
       value: |
-        Ask a focused question or review the public demo and onboarding. Do not post private identity, account, wallet, business, or security information.
-  - type: dropdown
-    id: purpose
+        Welcome. Tell us enough to help you find the right public pathway.
+
+        Do not post credentials, private participant data, wallet or financial information, confidential business material, production secrets, or unreported security vulnerabilities.
+  - type: textarea
+    id: introduction
     attributes:
-      label: What are you here to do?
-      options:
-        - Review the demo or onboarding experience
-        - Ask a standards or governance question
-        - Ask how to contribute
-        - Report a public documentation problem
-        - Other public feedback
+      label: Who are you?
+      description: Share only the public context that will help us understand your interests.
+    validations:
+      required: true
+  - type: textarea
+    id: contribution
+    attributes:
+      label: What can you help with?
+      description: Skills may include technology, economics, statistics, privacy, law, accounting, design, accessibility, education, security, governance, business, or human behavior.
     validations:
       required: true
   - type: textarea
     id: question
     attributes:
-      label: What did you observe or want to ask?
-      placeholder: Name the page or step and describe one clear question or observation.
+      label: What are you trying to understand?
+      description: Ask one focused question or describe the decision you are trying to make.
     validations:
       required: true
   - type: dropdown
-    id: area
+    id: ecosystem-area
     attributes:
-      label: Which area does this concern?
+      label: Which part of the ecosystem?
       multiple: true
       options:
-        - Identity
-        - Authority
-        - Data
-        - Agents
-        - Credentials
-        - Registry
-        - Evidence
-        - Privacy or security
-        - Governance
-        - Conformance
-        - Demo or onboarding
-        - Accessibility or usability
-        - Contribution process
-        - Other
+        - TitleChain Foundation
+        - ICSN public standards
+        - Power of Her Purse / First 100 / 100K Women
+        - M5POD demo or activation
+        - Contributing to an open Issue
+        - Sponsorship or engineering support
+        - IAM or M5Member distinction
+        - Not sure yet
     validations:
       required: true
-  - type: textarea
-    id: context
-    attributes:
-      label: Context
-      description: Explain what you are trying to do and include relevant links or specification sections.
-    validations:
-      required: true
-  - type: textarea
-    id: attempted
-    attributes:
-      label: What would you recommend?
-      description: Suggest one concrete improvement, next step, or source to review.
