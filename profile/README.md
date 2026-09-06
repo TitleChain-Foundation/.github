@@ -28,6 +28,7 @@ The visuals are **Illustrative Public Review Drafts**. They are not adopted stan
 | Show how a company, product, dataset, or methodology can support the stack | [Use the commons contribution tracks](https://github.com/TitleChain-Foundation/icsn-standards/blob/docs/sec-review-dashboard/COMMONS-CONTRIBUTION-TRACKS.md) |
 | Share expertise, role changes, or training needs without posting a private CV | [Use the public-safe workforce pathway](https://github.com/TitleChain-Foundation/icsn-standards/blob/docs/sec-review-dashboard/COMMONS-CONTRIBUTION-TRACKS.md#expertise-m5-cv-and-changing-roles) |
 | Introduce a provider, economic-data, workforce, or training proposal | [Join Discussion 22](https://github.com/orgs/TitleChain-Foundation/discussions/22) |
+| Follow the broader commons project board | **Coming soon:** [intake is open now in Discussion 22](https://github.com/orgs/TitleChain-Foundation/discussions/22) |
 | Review the demo or explore an activation program | [Visit Programs & Activation](https://github.com/orgs/TitleChain-Foundation/discussions/categories/programs-activation) |
 | Review the SEC filing's public reference artifacts | [Open the Appendix B artifact directory](https://github.com/orgs/TitleChain-Foundation/discussions/19) |
 | Track all seven SEC transfer-agent review topics | [Open the SEC public-review board](https://github.com/orgs/TitleChain-Foundation/projects/2/views/2) |
