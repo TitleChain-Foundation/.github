@@ -8,9 +8,9 @@ We steward the public ICSN standards and are building pathways for women-led ven
 
 [![M5POD private member stack rooted in ICSN open standards, human identity, and member authority](assets/m5pod-stack.png)](https://github.com/TitleChain-Foundation/icsn-standards/tree/main/assets/public-review)
 
-We invite people across technology, law, economics, statistics, finance, identity, privacy, security, accessibility, and community governance to help shape a public commons for the digital-asset edge economy. This includes open review of privacy-preserving, provenance-aware approaches to real-time economic indicators and methodologies.
+We invite companies, providers, researchers, educators, workforce organizations, and people across technology, law, economics, statistics, finance, identity, privacy, security, accessibility, and community governance to help shape a public commons for the digital-asset edge economy. Participants can propose one bounded product, interface, dataset, methodology, skill, role-transition need, or training pathway across the stack.
 
-**[Open the SEC public-review board](https://github.com/orgs/TitleChain-Foundation/projects/2/views/2) · [Join the public conversation](https://github.com/orgs/TitleChain-Foundation/discussions/19) · [Track the SEC deadline](https://github.com/TitleChain-Foundation/icsn-standards/milestone/2) · [Review the featured visuals](https://github.com/TitleChain-Foundation/icsn-standards/tree/main/assets/public-review)**
+**[Choose a commons contribution track](https://github.com/TitleChain-Foundation/icsn-standards/blob/docs/sec-review-dashboard/COMMONS-CONTRIBUTION-TRACKS.md) · [Open the SEC public-review board](https://github.com/orgs/TitleChain-Foundation/projects/2/views/2) · [Join the public conversation](https://github.com/orgs/TitleChain-Foundation/discussions/19) · [Review the featured visuals](https://github.com/TitleChain-Foundation/icsn-standards/tree/main/assets/public-review)**
 
 > **The M5 architecture makes AI operationally useful without allowing AI, credentials, wallets, employees, contractors, APIs, or third-party systems to become unaccountable sources of authority.**
 
@@ -25,6 +25,8 @@ The visuals are **Illustrative Public Review Drafts**. They are not adopted stan
 | I want to | Go here |
 | --- | --- |
 | Ask, introduce myself, share an idea, or offer a skill | [Use Contributor Q&A](https://github.com/orgs/TitleChain-Foundation/discussions/categories/contributor-q-a) |
+| Show how a company, product, dataset, or methodology can support the stack | [Use the commons contribution tracks](https://github.com/TitleChain-Foundation/icsn-standards/blob/docs/sec-review-dashboard/COMMONS-CONTRIBUTION-TRACKS.md) |
+| Share expertise, role changes, or training needs without posting a private CV | [Use the public-safe workforce pathway](https://github.com/TitleChain-Foundation/icsn-standards/blob/docs/sec-review-dashboard/COMMONS-CONTRIBUTION-TRACKS.md#expertise-m5-cv-and-changing-roles) |
 | Review the demo or explore an activation program | [Visit Programs & Activation](https://github.com/orgs/TitleChain-Foundation/discussions/categories/programs-activation) |
 | Review the SEC filing's public reference artifacts | [Open the Appendix B artifact directory](https://github.com/orgs/TitleChain-Foundation/discussions/19) |
 | Track all seven SEC transfer-agent review topics | [Open the SEC public-review board](https://github.com/orgs/TitleChain-Foundation/projects/2/views/2) |
