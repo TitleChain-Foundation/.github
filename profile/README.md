@@ -8,8 +8,9 @@ We steward the public ICSN standards and are building pathways for women-led ven
 
 | I want to | Go here |
 | --- | --- |
-| Ask, introduce myself, share an idea, or offer a skill | [Use Contributor Q&A](https://github.com/orgs/TitleChain-Foundation/discussions/categories/questions-help) |
-| Review the demo or explore an activation program | [Visit Programs & Activation](https://github.com/orgs/TitleChain-Foundation/discussions/categories/public-infrastructure-activation) |
+| Ask, introduce myself, share an idea, or offer a skill | [Use Contributor Q&A](https://github.com/orgs/TitleChain-Foundation/discussions/categories/contributor-q-a) |
+| Review the demo or explore an activation program | [Visit Programs & Activation](https://github.com/orgs/TitleChain-Foundation/discussions/categories/programs-activation) |
+| Review the SEC filing's public reference artifacts | [Open the Appendix B artifact directory](https://github.com/orgs/TitleChain-Foundation/discussions/19) |
 | Join the M5POD activation waitlist | [Reserve your M5POD](https://m5podactivationdemo.netlify.app/waitlist.html) |
 | Review standards or claim scoped work | [Explore ICSN Standards](https://github.com/TitleChain-Foundation/icsn-standards) |
 | Fund public work and contributor capacity | [Sponsor the Foundation](https://github.com/sponsors/TitleChain-Foundation) |
