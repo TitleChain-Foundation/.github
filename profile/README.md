@@ -26,6 +26,7 @@ The visuals are **Illustrative Public Review Drafts**. They are not adopted stan
 | --- | --- |
 | Ask, introduce myself, share an idea, or offer a skill | [Use Contributor Q&A](https://github.com/orgs/TitleChain-Foundation/discussions/categories/contributor-q-a) |
 | Show how a company, product, dataset, or methodology can support the stack | [Use the commons contribution tracks](https://github.com/TitleChain-Foundation/icsn-standards/blob/docs/sec-review-dashboard/COMMONS-CONTRIBUTION-TRACKS.md) |
+| Find where my expertise, product, or learning goal fits | [Explore all 37 SOPHIA tracks](https://github.com/TitleChain-Foundation/icsn-standards/blob/docs/sec-review-dashboard/docs/SOPHIA-37-TRACK-PARTICIPATION-MAP.md) |
 | Share expertise, role changes, or training needs without posting a private CV | [Use the public-safe workforce pathway](https://github.com/TitleChain-Foundation/icsn-standards/blob/docs/sec-review-dashboard/COMMONS-CONTRIBUTION-TRACKS.md#expertise-m5-cv-and-changing-roles) |
 | Introduce a provider, economic-data, workforce, or training proposal | [Join Discussion 22](https://github.com/orgs/TitleChain-Foundation/discussions/22) |
 | Follow the broader commons project board | **Coming soon:** [intake is open now in Discussion 22](https://github.com/orgs/TitleChain-Foundation/discussions/22) |
