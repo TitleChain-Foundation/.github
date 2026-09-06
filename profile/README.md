@@ -12,6 +12,8 @@ We invite people across technology, law, economics, statistics, finance, identit
 
 **[Join the public conversation](https://github.com/orgs/TitleChain-Foundation/discussions/19) · [Track the SEC transfer-agent review](https://github.com/TitleChain-Foundation/icsn-standards/milestone/2) · [Review the featured visuals](https://github.com/TitleChain-Foundation/icsn-standards/tree/main/assets/public-review)**
 
+> **The M5 architecture makes AI operationally useful without allowing AI, credentials, wallets, employees, contractors, APIs, or third-party systems to become unaccountable sources of authority.**
+
 The visuals are **Illustrative Public Review Drafts**. They are not adopted standards, official statistics, regulated benchmarks, production deployments, credentials, certifications, or representations of government endorsement. Maintained repository text and governance records control where visual shorthand differs.
 
 | Human-authorized wallet and agent controls | Economic and rights layers |
