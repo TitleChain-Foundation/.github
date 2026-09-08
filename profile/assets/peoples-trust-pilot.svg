@@ -1,55 +1,58 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
   <title id="title">People's Trust Public Conformance Pilot</title>
-  <desc id="desc">An illustrated agricultural landscape introduces an anonymous synthetic pilot for testing separate title, stewardship, local operations, economic rights, and public evidence.</desc>
+  <desc id="desc">A brand-aligned editorial card with abstract agricultural and water scenes introduces an anonymous synthetic pilot and its repeatable public-review pipeline.</desc>
   <defs>
-    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#10152c"/>
-      <stop offset="1" stop-color="#465d85"/>
+    <linearGradient id="field" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#93a965"/>
+      <stop offset="1" stop-color="#43552f"/>
     </linearGradient>
-    <linearGradient id="fieldA" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#b49442"/>
-      <stop offset="1" stop-color="#6e7f38"/>
+    <linearGradient id="water" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#667f94"/>
+      <stop offset="1" stop-color="#2f4d55"/>
     </linearGradient>
-    <linearGradient id="fieldB" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#729250"/>
-      <stop offset="1" stop-color="#304e31"/>
-    </linearGradient>
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#000000" flood-opacity=".35"/>
-    </filter>
+    <clipPath id="topLeft"><rect x="50" y="50" width="520" height="300"/></clipPath>
+    <clipPath id="topRight"><rect x="580" y="50" width="570" height="145"/></clipPath>
+    <clipPath id="bottomRight"><rect x="580" y="205" width="570" height="145"/></clipPath>
   </defs>
 
-  <rect width="1200" height="650" rx="28" fill="url(#sky)"/>
-  <circle cx="1015" cy="115" r="54" fill="#d5a84b" opacity=".9"/>
-  <path d="M0 310 C220 235 395 285 570 245 C760 202 905 255 1200 185 V650 H0 Z" fill="#263e35"/>
-  <path d="M0 370 C210 290 410 335 610 285 C830 230 1030 285 1200 245 V650 H0 Z" fill="url(#fieldB)"/>
-  <path d="M0 470 L480 320 L740 650 H0 Z" fill="url(#fieldA)"/>
-  <path d="M470 325 L725 265 L1010 650 H735 Z" fill="#6f8e49"/>
-  <path d="M720 265 L1200 245 V650 H1010 Z" fill="#b59b50"/>
-  <g opacity=".38" stroke="#f7f2e8" stroke-width="3">
-    <path d="M55 650 L455 335"/><path d="M155 650 L485 330"/><path d="M270 650 L515 325"/><path d="M400 650 L545 318"/>
-    <path d="M780 650 L757 264"/><path d="M890 650 L830 258"/><path d="M1010 650 L910 253"/><path d="M1135 650 L1000 248"/>
+  <rect width="1200" height="900" fill="#f7f4ee"/>
+  <rect x="50" y="50" width="1100" height="800" fill="#fffdf9" stroke="#d8d0c2" stroke-width="2"/>
+
+  <g clip-path="url(#topLeft)">
+    <rect x="50" y="50" width="520" height="300" fill="url(#field)"/>
+    <path d="M-20 370 L215 25 L245 25 L35 370 Z M85 370 L295 25 L325 25 L140 370 Z M200 370 L380 25 L410 25 L255 370 Z M330 370 L470 25 L500 25 L385 370 Z M470 370 L555 25 L585 25 L525 370 Z" fill="#c2cf75" opacity=".78"/>
+    <path d="M20 370 L235 25 M130 370 L315 25 M250 370 L400 25 M380 370 L485 25 M515 370 L565 25" stroke="#e1d48c" stroke-width="8" opacity=".55"/>
+  </g>
+  <g clip-path="url(#topRight)">
+    <rect x="580" y="50" width="570" height="145" fill="#89985b"/>
+    <path d="M560 105 C720 15 805 190 950 100 C1050 35 1110 52 1170 20 V205 H560 Z" fill="url(#water)"/>
+    <path d="M560 145 C710 70 810 220 970 125 C1070 65 1130 80 1170 48" fill="none" stroke="#b9cbaa" stroke-width="12" opacity=".7"/>
+  </g>
+  <g clip-path="url(#bottomRight)">
+    <rect x="580" y="205" width="570" height="145" fill="#8ea36c"/>
+    <path d="M580 320 C680 235 785 325 875 250 C955 185 1060 275 1150 215 V365 H580 Z" fill="#4f693f"/>
+    <path d="M580 345 C720 260 820 355 945 280 C1035 225 1100 265 1150 245" fill="none" stroke="#6b8292" stroke-width="20"/>
   </g>
 
-  <rect x="58" y="52" width="690" height="235" rx="24" fill="#f7f2e8" filter="url(#shadow)"/>
-  <text x="96" y="103" fill="#10152c" font-family="Arial, sans-serif" font-size="22" font-weight="700">PEOPLE'S TRUST PUBLIC CONFORMANCE PILOT</text>
-  <text x="96" y="150" fill="#10152c" font-family="Arial, sans-serif" font-size="40" font-weight="700">PILOT 001 - ████████</text>
-  <text x="96" y="189" fill="#39405c" font-family="Arial, sans-serif" font-size="20">Can a complete framework work - and then repeat nationally?</text>
-  <text x="96" y="229" fill="#39405c" font-family="Arial, sans-serif" font-size="17">TITLE  |  STEWARDSHIP  |  LOCAL OPERATIONS  |  M4 ANALYSIS  |  EVIDENCE</text>
-  <text x="96" y="260" fill="#8a5d13" font-family="Arial, sans-serif" font-size="16" font-weight="700">SYNTHETIC PUBLIC REVIEW - NOT AN ACQUISITION OR OFFERING</text>
+  <rect x="85" y="78" width="240" height="48" rx="6" fill="#fffdf9"/>
+  <text x="205" y="109" text-anchor="middle" fill="#9c7b26" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="4">PUBLIC PILOT</text>
 
-  <g font-family="Arial, sans-serif" text-anchor="middle" filter="url(#shadow)">
-    <rect x="70" y="515" width="240" height="82" rx="16" fill="#10152c"/>
-    <text x="190" y="549" fill="#f7f2e8" font-size="18" font-weight="700">PILOT 001</text>
-    <text x="190" y="578" fill="#aeb8d6" font-size="15">complete framework</text>
-    <rect x="340" y="515" width="240" height="82" rx="16" fill="#28a9a1"/>
-    <text x="460" y="549" fill="#071e24" font-size="18" font-weight="700">PILOT 002</text>
-    <text x="460" y="578" fill="#071e24" font-size="15">independent replication</text>
-    <rect x="610" y="515" width="240" height="82" rx="16" fill="#d5a84b"/>
-    <text x="730" y="549" fill="#10152c" font-size="18" font-weight="700">PILOT 003+</text>
-    <text x="730" y="578" fill="#10152c" font-size="15">scale without consolidation</text>
-    <rect x="880" y="515" width="250" height="82" rx="16" fill="#f7f2e8"/>
-    <text x="1005" y="549" fill="#10152c" font-size="18" font-weight="700">JOIN THE REVIEW</text>
-    <text x="1005" y="578" fill="#39405c" font-size="15">bring evidence, risk, or a test</text>
-  </g>
+  <text x="95" y="440" fill="#211627" font-family="Georgia, 'Times New Roman', serif" font-size="58">One pilot. Then prove</text>
+  <text x="95" y="505" fill="#211627" font-family="Georgia, 'Times New Roman', serif" font-size="58">the framework repeats.</text>
+  <line x1="95" y1="535" x2="255" y2="535" stroke="#d53679" stroke-width="4"/>
+
+  <text x="95" y="585" fill="#4c4650" font-family="Arial, sans-serif" font-size="20">PILOT 001</text>
+  <text x="320" y="585" fill="#211627" font-family="Arial, sans-serif" font-size="23" font-weight="700">████████ - complete synthetic framework</text>
+  <line x1="95" y1="605" x2="1105" y2="605" stroke="#ded8cf"/>
+
+  <text x="95" y="645" fill="#4c4650" font-family="Arial, sans-serif" font-size="20">PILOT 002</text>
+  <text x="320" y="645" fill="#211627" font-family="Arial, sans-serif" font-size="23" font-weight="700">████████ - independent replication</text>
+  <line x1="95" y1="665" x2="1105" y2="665" stroke="#ded8cf"/>
+
+  <text x="95" y="705" fill="#4c4650" font-family="Arial, sans-serif" font-size="20">PILOT 003+</text>
+  <text x="320" y="705" fill="#211627" font-family="Arial, sans-serif" font-size="23" font-weight="700">████████ - national scale without consolidation</text>
+
+  <text x="95" y="765" fill="#7c2c62" font-family="Arial, sans-serif" font-size="24" font-weight="700">Title. Stewardship. Local operations. M4 analysis. Public evidence.</text>
+  <rect x="95" y="792" width="1010" height="42" rx="7" fill="#c7a552"/>
+  <text x="600" y="819" text-anchor="middle" fill="#211627" font-family="Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="1">SYNTHETIC PUBLIC REVIEW - NOT AN ACQUISITION OR OFFERING</text>
 </svg>
