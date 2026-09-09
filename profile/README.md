@@ -10,6 +10,7 @@ We steward the public ICSN standards and are building pathways for women-led ven
 
 We invite companies, providers, researchers, educators, workforce organizations, and people across technology, law, economics, statistics, finance, identity, privacy, security, accessibility, and community governance to help shape a public commons for the digital-asset edge economy. Participants can propose one bounded product, interface, dataset, methodology, skill, role-transition need, or training pathway across the stack.
 
+**[Explore the M5POD-to-M5-CV demo](https://m5podactivationdemo.netlify.app/demo) · [Join the waitlist](https://m5podactivationdemo.netlify.app/) · [Choose a commons contribution track](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/COMMONS-CONTRIBUTION-TRACKS.md) · [Review native M5Agents](https://github.com/orgs/TitleChain-Foundation/discussions/23) · [Introduce a proposal](https://github.com/orgs/TitleChain-Foundation/discussions/22)**
 **[Explore the M5POD-to-M5-CV demo](https://m5podactivationdemo.netlify.app/demo) · [Join the waitlist](https://m5podactivationdemo.netlify.app/) · [Choose a commons contribution track](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/COMMONS-CONTRIBUTION-TRACKS.md) · [Introduce a proposal](https://github.com/orgs/TitleChain-Foundation/discussions/22) · [Open the SEC public-review board](https://github.com/orgs/TitleChain-Foundation/projects/2/views/2)**
 
 > **The M5 architecture makes AI operationally useful without allowing AI, credentials, wallets, employees, contractors, APIs, or third-party systems to become unaccountable sources of authority.**
@@ -59,6 +60,7 @@ the current campaign, service, legal, and operational boundaries.
 | Find where my expertise, product, or learning goal fits | [Explore all 37 SOPHIA tracks](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/docs/SOPHIA-37-TRACK-PARTICIPATION-MAP.md) |
 | Share expertise, role changes, or training needs without posting a private CV | [Use the public-safe workforce pathway](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/COMMONS-CONTRIBUTION-TRACKS.md#expertise-m5-cv-and-changing-roles) |
 | Introduce a provider, economic-data, workforce, or training proposal | [Join Discussion 22](https://github.com/orgs/TitleChain-Foundation/discussions/22) |
+| Review native M5Agents, authority controls, graphs, threats, and verification | [Start with the M5-agent discussion series](https://github.com/orgs/TitleChain-Foundation/discussions/23) |
 | Follow the broader commons project board | **Coming soon:** [intake is open now in Discussion 22](https://github.com/orgs/TitleChain-Foundation/discussions/22) |
 | Review the demo or explore an activation program | [Visit Programs & Activation](https://github.com/orgs/TitleChain-Foundation/discussions/categories/programs-activation) |
 | Review the SEC filing's public reference artifacts | [Open the Appendix B artifact directory](https://github.com/orgs/TitleChain-Foundation/discussions/19) |
