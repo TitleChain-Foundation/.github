@@ -20,35 +20,35 @@ The visuals are **Illustrative Public Review Drafts**. They are not adopted stan
 | --- | --- |
 | [![From a bare wallet address to a layered, human-authorized foundation](assets/m5-wallet-layer-stack.png)](https://github.com/TitleChain-Foundation/icsn-standards/tree/main/assets/public-review) | [![M5 economics with account, asset, rights, and authority layers](assets/m5-economic-stack.png)](https://github.com/TitleChain-Foundation/icsn-standards/tree/main/assets/public-review) |
 
-## Featured public work
+## Featured project simulation
 
-[![People's Trust Public Conformance Pilot: an anonymous synthetic agricultural scenario testing title, stewardship, local operations, M4 analysis, and evidence](assets/peoples-trust-pilot.svg)](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/discussions/1)
+[![Project wish list: 275,000 acres, back in American hands](assets/peoples-trust-project-wish-list.png)](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/peoples-trust/README.md)
 
-### People's Trust: from Pilot 001 to a repeatable framework
+### People's Trust: one farm use case, a repeatable national framework
 
-The proposed People's Trust pilot tests whether authoritative title, permanent
-public-benefit stewardship, credential-bound local operations, separate project
-economics, any separately analyzed M4 economic right, regulated recordkeeping,
-and correction evidence can remain distinct before execution.
+The People's Trust project simulation follows one real-world farm use case
+through the complete TitleChain agent, registry, chain, credential, authority,
+title, stewardship, and activation process using sample, non-production
+records. The work is published so regulators, legislators, operators,
+communities, and the public can examine the same process and evidence.
 
-**Pilot 001 tests the complete synthetic framework. Pilot 002 tests independent
-replication. Pilot 003+ tests national scale without consolidating ownership,
-funds, operations, or authority.**
+The **275,000 acres** are a project wish list and target pipeline developed from
+years of private research. The number is not a claim that the Foundation or the
+People's Trust currently owns, controls, has under contract, or is offering
+those acres. Pilot 001 tests the complete process. Pilot 002 tests independent
+replication. Pilot 003+ tests whether the framework can scale without
+consolidating ownership, funds, operations, or authority.
 
-The Foundation has developed private research across multiple asset, rights,
-operator, and jurisdiction scenarios over several years. The public pipeline
-uses fixed `████████` labels and neutral scenario classes. It is a conformance
-and research pipeline—not an acquisition list, offering, ownership claim, or
-statement that any private party or agency has agreed to participate.
+**[Learn about the project simulation and see the full visual story →](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/peoples-trust/README.md)**
 
 | Public project | What to do |
 | --- | --- |
-| [People's Trust Public Pilot](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/discussions/1) | Review the simulation, challenge a gate, propose evidence, or identify a failure condition |
+| [People's Trust Project Simulation](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/peoples-trust/README.md) | See the full visual story, understand the current terms, and review the simulation |
 | [M5 AI Sovereign Commons](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons) | Review the authority, agent, portability, communications, schema, and conformance proposals |
 | [SEC Transfer Agent Rules Project #2](https://github.com/orgs/TitleChain-Foundation/projects/2/views/2) | Follow seven scoped public-review topics and connect comments to actionable standards work |
 
-The People’s Trust Library visual is an **Illustrative Public Review Draft**.
-The maintained pilot text and public claim states control over visual shorthand.
+The visual cards describe the project vision. The linked simulation page states
+the current campaign, service, legal, and operational boundaries.
 
 ## Start here
 
@@ -63,7 +63,7 @@ The maintained pilot text and public claim states control over visual shorthand.
 | Review the demo or explore an activation program | [Visit Programs & Activation](https://github.com/orgs/TitleChain-Foundation/discussions/categories/programs-activation) |
 | Review the SEC filing's public reference artifacts | [Open the Appendix B artifact directory](https://github.com/orgs/TitleChain-Foundation/discussions/19) |
 | Track all seven SEC transfer-agent review topics | [Open the SEC public-review board](https://github.com/orgs/TitleChain-Foundation/projects/2/views/2) |
-| Review the People's Trust synthetic pilot and repeatable pipeline | [Open People's Trust Discussion #1](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/discussions/1) |
+| Review the People's Trust project simulation and repeatable pipeline | [Open the visual simulation library](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/peoples-trust/README.md) |
 | See deadline and completion progress | [Open the SEC public-review milestone](https://github.com/TitleChain-Foundation/icsn-standards/milestone/2) |
 | Join the M5POD activation waitlist | [Reserve your M5POD](https://m5podactivationdemo.netlify.app/) |
 | Explore the M5-CV activation journey before joining | [Open the full M5POD-to-M5-CV demo](https://m5podactivationdemo.netlify.app/demo) |
