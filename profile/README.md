@@ -11,6 +11,7 @@ We steward the public ICSN standards and are building pathways for women-led ven
 We invite companies, providers, researchers, educators, workforce organizations, and people across technology, law, economics, statistics, finance, identity, privacy, security, accessibility, and community governance to help shape a public commons for the digital-asset edge economy. Participants can propose one bounded product, interface, dataset, methodology, skill, role-transition need, or training pathway across the stack.
 
 **[Explore the M5POD-to-M5-CV demo](https://m5podactivationdemo.netlify.app/demo) · [Join the waitlist](https://m5podactivationdemo.netlify.app/) · [Choose a commons contribution track](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/COMMONS-CONTRIBUTION-TRACKS.md) · [Review native M5Agents](https://github.com/orgs/TitleChain-Foundation/discussions/23) · [Introduce a proposal](https://github.com/orgs/TitleChain-Foundation/discussions/22)**
+**[Explore the M5POD-to-M5-CV demo](https://m5podactivationdemo.netlify.app/demo) · [Join the waitlist](https://m5podactivationdemo.netlify.app/) · [Choose a commons contribution track](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/COMMONS-CONTRIBUTION-TRACKS.md) · [Introduce a proposal](https://github.com/orgs/TitleChain-Foundation/discussions/22) · [Open the SEC public-review board](https://github.com/orgs/TitleChain-Foundation/projects/2/views/2)**
 
 > **The M5 architecture makes AI operationally useful without allowing AI, credentials, wallets, employees, contractors, APIs, or third-party systems to become unaccountable sources of authority.**
 
@@ -19,6 +20,36 @@ The visuals are **Illustrative Public Review Drafts**. They are not adopted stan
 | Human-authorized wallet and agent controls | Economic and rights layers |
 | --- | --- |
 | [![From a bare wallet address to a layered, human-authorized foundation](assets/m5-wallet-layer-stack.png)](https://github.com/TitleChain-Foundation/icsn-standards/tree/main/assets/public-review) | [![M5 economics with account, asset, rights, and authority layers](assets/m5-economic-stack.png)](https://github.com/TitleChain-Foundation/icsn-standards/tree/main/assets/public-review) |
+
+## Featured project simulation
+
+[![Project wish list: 275,000 acres, back in American hands](assets/peoples-trust-project-wish-list.png)](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/peoples-trust/README.md)
+
+### People's Trust: one farm use case, a repeatable national framework
+
+The People's Trust project simulation follows one real-world farm use case
+through the complete TitleChain agent, registry, chain, credential, authority,
+title, stewardship, and activation process using sample, non-production
+records. The work is published so regulators, legislators, operators,
+communities, and the public can examine the same process and evidence.
+
+The **275,000 acres** are a project wish list and target pipeline developed from
+years of private research. The number is not a claim that the Foundation or the
+People's Trust currently owns, controls, has under contract, or is offering
+those acres. Pilot 001 tests the complete process. Pilot 002 tests independent
+replication. Pilot 003+ tests whether the framework can scale without
+consolidating ownership, funds, operations, or authority.
+
+**[Learn about the project simulation and see the full visual story →](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/peoples-trust/README.md)**
+
+| Public project | What to do |
+| --- | --- |
+| [People's Trust Project Simulation](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/peoples-trust/README.md) | See the full visual story, understand the current terms, and review the simulation |
+| [M5 AI Sovereign Commons](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons) | Review the authority, agent, portability, communications, schema, and conformance proposals |
+| [SEC Transfer Agent Rules Project #2](https://github.com/orgs/TitleChain-Foundation/projects/2/views/2) | Follow seven scoped public-review topics and connect comments to actionable standards work |
+
+The visual cards describe the project vision. The linked simulation page states
+the current campaign, service, legal, and operational boundaries.
 
 ## Start here
 
@@ -34,6 +65,7 @@ The visuals are **Illustrative Public Review Drafts**. They are not adopted stan
 | Review the demo or explore an activation program | [Visit Programs & Activation](https://github.com/orgs/TitleChain-Foundation/discussions/categories/programs-activation) |
 | Review the SEC filing's public reference artifacts | [Open the Appendix B artifact directory](https://github.com/orgs/TitleChain-Foundation/discussions/19) |
 | Track all seven SEC transfer-agent review topics | [Open the SEC public-review board](https://github.com/orgs/TitleChain-Foundation/projects/2/views/2) |
+| Review the People's Trust project simulation and repeatable pipeline | [Open the visual simulation library](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/peoples-trust/README.md) |
 | See deadline and completion progress | [Open the SEC public-review milestone](https://github.com/TitleChain-Foundation/icsn-standards/milestone/2) |
 | Join the M5POD activation waitlist | [Reserve your M5POD](https://m5podactivationdemo.netlify.app/) |
 | Explore the M5-CV activation journey before joining | [Open the full M5POD-to-M5-CV demo](https://m5podactivationdemo.netlify.app/demo) |
