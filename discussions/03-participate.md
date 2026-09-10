@@ -48,7 +48,8 @@ Learn more through:
 - [Foundation sponsorship information](https://titlechainfoundation.org/#sponsor)
 - [GitHub Sponsors](https://github.com/sponsors/TitleChain-Foundation)
 - [Programs & Activation discussions](https://github.com/orgs/TitleChain-Foundation/discussions/categories/public-infrastructure-activation)
-- [M5POD Activation Demo](https://m5podactivationdemo.netlify.app/)
+- [Set up your IAM account](https://m5bank.app/)
+- [Reserve your M5POD place](https://m5podactivationdemo.netlify.app/)
 
 Partnership, engineering secondment, association, and cohort inquiries: **hello@titlechainfoundation.org**
 

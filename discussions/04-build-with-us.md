@@ -39,8 +39,8 @@ The first supported cohort prioritizes **75 women**. The broader project activat
 The broader Power of Her Purse goal is to support **up to 100,000 women-led ventures**. Progress must be demonstrated through real participation, accepted work, evidence, trainer capacity, funding, and accountable outcomes rather than audience claims.
 
 - [Read the current Press & Media briefing](https://titlechainfoundation.org/press)
-- [See the M5POD Activation Demo](https://m5podactivationdemo.netlify.app/)
-- [Join the M5POD waitlist](https://m5podactivationdemo.netlify.app/waitlist.html)
+- [Set up your IAM account](https://m5bank.app/)
+- [Reserve your M5POD place](https://m5podactivationdemo.netlify.app/)
 - [Explore deeper M5 technology and research](https://m5bank.app/)
 
 ## Public contribution record

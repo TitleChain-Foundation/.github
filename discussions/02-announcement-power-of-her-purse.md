@@ -50,8 +50,8 @@ TitleChain Foundation stewards ICSN. M5 is one implementation and activation env
 
 - [Foundation Press & Media briefing](https://titlechainfoundation.org/press)
 - [Published release: TitleChain Foundation Opens Sovereign AI & Digital Asset Commons, Invites Builders](https://www.prlog.org/13168578-titlechain-foundation-opens-sovereign-ai-digital-asset-commons-invites-builders.html)
-- [M5POD Activation Demo](https://m5podactivationdemo.netlify.app/)
-- [Join the M5POD waitlist](https://m5podactivationdemo.netlify.app/waitlist.html)
+- [Set up your IAM account](https://m5bank.app/)
+- [Reserve your M5POD place](https://m5podactivationdemo.netlify.app/)
 - [M5 product, technology, architecture, and research](https://m5bank.app/)
 - [ICSN public standards](https://github.com/TitleChain-Foundation/icsn-standards)
 - [GitHub Sponsors](https://github.com/sponsors/TitleChain-Foundation)

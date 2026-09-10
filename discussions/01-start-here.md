@@ -29,8 +29,8 @@ M5 is one implementation and activation environment used to test and demonstrate
 | Find work that needs help | [Open ICSN Issues](https://github.com/TitleChain-Foundation/icsn-standards/issues) |
 | Ask where I fit | [Contributor Q&A](https://github.com/orgs/TitleChain-Foundation/discussions/categories/questions-help) |
 | Discuss Power of Her Purse or activation programs | [Programs & Activation](https://github.com/orgs/TitleChain-Foundation/discussions/categories/public-infrastructure-activation) |
-| See the member experience | [M5POD Activation Demo](https://m5podactivationdemo.netlify.app/) |
-| Join the M5POD waitlist | [Reserve your M5POD](https://m5podactivationdemo.netlify.app/waitlist.html) |
+| Establish the free IAM starting point | [Set up your IAM account](https://m5bank.app/) |
+| Join the M5POD waitlist | [Reserve your M5POD](https://m5podactivationdemo.netlify.app/) |
 | Explore deeper M5 technology and research | [M5Bank.app](https://m5bank.app/) |
 | Support the public work | [GitHub Sponsors](https://github.com/sponsors/TitleChain-Foundation) |
 
