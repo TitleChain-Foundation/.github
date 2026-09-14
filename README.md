@@ -4,6 +4,8 @@ This special `.github` repository powers the public [TitleChain Foundation organ
 
 ## Start here
 
+- [Review the Sovereign Compute Access Act - Draft v1](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/legislation/sovereign-compute-access-act/PUBLIC-REVIEW.md)
+- [Join the Draft v1 public comment Discussion](https://github.com/orgs/TitleChain-Foundation/discussions/38)
 - [Follow the TitleChain Foundation](https://github.com/TitleChain-Foundation)
 - [Star and watch ICSN Standards](https://github.com/TitleChain-Foundation/icsn-standards)
 - [Join the one public Discussion space](https://github.com/orgs/TitleChain-Foundation/discussions)

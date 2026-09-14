@@ -4,6 +4,23 @@
 
 We steward the public ICSN standards and are building pathways for women-led ventures to gain practical skills, identity, agency, technology, networks, and leadership opportunity.
 
+## Featured legislative review
+
+**Sovereign Compute Access Act - Draft v1.** TitleChain Foundation has
+published model legislation proposing private and local access to open-weight
+AI, human authority over agent actions, state-primary administration, vendor
+neutrality, public disclosures, and anti-capture safeguards.
+
+The proposal is not enacted law, has not been introduced by a legislative
+office, and is not an adopted ICSN standard.
+
+**[Read the Draft v1 public-review hub](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/legislation/sovereign-compute-access-act/PUBLIC-REVIEW.md) · [Join the public comment Discussion](https://github.com/orgs/TitleChain-Foundation/discussions/38)**
+
+Comments, legal analysis, technical review, accessibility feedback, proposed
+amendments, and legislative-office inquiries are welcome. Nonpublic inquiries
+may be sent to
+[support@titlechainfoundation.org](mailto:support@titlechainfoundation.org).
+
 ## Help build the public commons
 
 [![M5POD private member stack rooted in ICSN open standards, human identity, and member authority](assets/m5pod-stack.png)](https://github.com/TitleChain-Foundation/icsn-standards/tree/main/assets/public-review)
@@ -54,6 +71,7 @@ the current campaign, service, legal, and operational boundaries.
 
 | I want to | Go here |
 | --- | --- |
+| Review the Sovereign Compute Access Act Draft v1 | [Read the draft and comment publicly](https://github.com/orgs/TitleChain-Foundation/discussions/38) |
 | Ask, introduce myself, share an idea, or offer a skill | [Use Contributor Q&A](https://github.com/orgs/TitleChain-Foundation/discussions/categories/contributor-q-a) |
 | Show how a company, product, dataset, or methodology can support the stack | [Use the commons contribution tracks](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/COMMONS-CONTRIBUTION-TRACKS.md) |
 | Find where my expertise, product, or learning goal fits | [Explore all 37 SOPHIA tracks](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/docs/SOPHIA-37-TRACK-PARTICIPATION-MAP.md) |
