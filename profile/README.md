@@ -4,7 +4,53 @@
 
 We steward the public ICSN standards and are building pathways for women-led ventures to gain practical skills, identity, agency, technology, networks, and leadership opportunity.
 
-## Help build the public commons
+## Featured legislative review
+
+### Sovereign Compute Access Act - Draft v1
+
+TitleChain Foundation has published model legislation proposing private and
+local access to open-weight AI, human authority over agent actions,
+state-primary administration, vendor neutrality, public disclosures, and
+anti-capture safeguards.
+
+The proposal is not enacted law, has not been introduced by a legislative
+office, and is not an adopted ICSN standard.
+
+**[Read the legislation](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/legislation/sovereign-compute-access-act/OFFICIAL-TEXT.md) · [Open the public-review hub](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/legislation/sovereign-compute-access-act/PUBLIC-REVIEW.md) · [Submit a public comment](https://github.com/orgs/TitleChain-Foundation/discussions/38) · [Explore ICSN](https://github.com/TitleChain-Foundation/icsn-standards)**
+
+Comments, legal analysis, technical review, accessibility feedback, proposed
+amendments, and legislative-office inquiries are welcome. Nonpublic inquiries
+may be sent to
+[support@titlechainfoundation.org](mailto:support@titlechainfoundation.org).
+
+### Sovereign Intelligence Stack
+
+[![The Sovereign Intelligence Stack: a human-first reference architecture from Bank of Me through Bank of Government](https://raw.githubusercontent.com/TitleChain-Foundation/icsn-standards/main/legislation/sovereign-compute-access-act/appendices/SOVEREIGN-INTELLIGENCE-STACK.png)](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/legislation/sovereign-compute-access-act/appendices/SOVEREIGN-INTELLIGENCE-STACK.html)
+
+A human-first reference architecture for locally controlled intelligence,
+memory, authority, and optional external providers across personal, community,
+business, institutional, and government contexts. This is non-normative
+Appendix B to the model act.
+
+**[Open the interactive appendix](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/legislation/sovereign-compute-access-act/appendices/SOVEREIGN-INTELLIGENCE-STACK.html) · [Comment on the architecture](https://github.com/orgs/TitleChain-Foundation/discussions/38)**
+
+### Open-Weight Compute Reference
+
+<p align="center">
+	<a href="https://github.com/TitleChain-Foundation/icsn-standards/blob/main/legislation/sovereign-compute-access-act/appendices/OPEN-WEIGHT-COMPUTE-REFERENCE.html">
+		<img src="https://raw.githubusercontent.com/TitleChain-Foundation/icsn-standards/main/legislation/sovereign-compute-access-act/appendices/OPEN-WEIGHT-COMPUTE-REFERENCE.png" width="560" alt="Open-Weight Compute Reference showing proposed access tiers, hardware classes, and public-support reciprocity">
+	</a>
+</p>
+
+A proposed, non-normative reference for discussing personal, pooled, and
+frontier compute; open-weight model access; hardware capability; registered
+sovereign nodes; and reciprocity for publicly supported training. The
+classifications are open questions for legal, technical, economic, security,
+accessibility, and implementation review.
+
+**[Open the full reference](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/legislation/sovereign-compute-access-act/appendices/OPEN-WEIGHT-COMPUTE-REFERENCE.html) · [Review the current seed questions](https://github.com/orgs/TitleChain-Foundation/discussions/38) · [Submit evidence or corrections](https://github.com/orgs/TitleChain-Foundation/discussions/38)**
+
+## From legislation to implementation
 
 [![M5POD private member stack rooted in ICSN open standards, human identity, and member authority](assets/m5pod-stack.png)](https://github.com/TitleChain-Foundation/icsn-standards/tree/main/assets/public-review)
 
@@ -54,6 +100,7 @@ the current campaign, service, legal, and operational boundaries.
 
 | I want to | Go here |
 | --- | --- |
+| Review the Sovereign Compute Access Act Draft v1 | [Read the draft and comment publicly](https://github.com/orgs/TitleChain-Foundation/discussions/38) |
 | Ask, introduce myself, share an idea, or offer a skill | [Use Contributor Q&A](https://github.com/orgs/TitleChain-Foundation/discussions/categories/contributor-q-a) |
 | Show how a company, product, dataset, or methodology can support the stack | [Use the commons contribution tracks](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/COMMONS-CONTRIBUTION-TRACKS.md) |
 | Find where my expertise, product, or learning goal fits | [Explore all 37 SOPHIA tracks](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/docs/SOPHIA-37-TRACK-PARTICIPATION-MAP.md) |
