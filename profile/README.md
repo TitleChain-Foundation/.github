@@ -91,6 +91,7 @@ consolidating ownership, funds, operations, or authority.
 | --- | --- |
 | [People's Trust Project Simulation](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/peoples-trust/README.md) | See the full visual story, understand the current terms, and review the simulation |
 | [M5 AI Sovereign Commons](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons) | Review the authority, agent, portability, communications, schema, and conformance proposals |
+| [SEC Public Input Summary](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/sec-public-input/README.md) | See the current docket status, dated Open Commons reviews, official sources, and live hourly observatory |
 | [SEC Transfer Agent Rules Project #2](https://github.com/orgs/TitleChain-Foundation/projects/2/views/2) | Follow seven scoped public-review topics and connect comments to actionable standards work |
 
 The visual cards describe the project vision. The linked simulation page states
