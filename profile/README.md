@@ -56,7 +56,7 @@ accessibility, and implementation review.
 
 We invite companies, providers, researchers, educators, workforce organizations, and people across technology, law, economics, statistics, finance, identity, privacy, security, accessibility, and community governance to help shape a public commons for the digital-asset edge economy. Participants can propose one bounded product, interface, dataset, methodology, skill, role-transition need, or training pathway across the stack.
 
-**[Set up your IAM account](https://m5bank.app/) · [Reserve your M5POD](https://m5podactivationdemo.netlify.app/) · [Choose a commons contribution track](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/COMMONS-CONTRIBUTION-TRACKS.md) · [Review native M5Agents](https://github.com/orgs/TitleChain-Foundation/discussions/23) · [Introduce a proposal](https://github.com/orgs/TitleChain-Foundation/discussions/22) · [Open the SEC public-review board](https://github.com/orgs/TitleChain-Foundation/projects/2/views/2)**
+**[Set up your IAM account](https://m5bank.app/) · [Reserve your M5POD](https://m5podactivationdemo.netlify.app/) · [Choose a commons contribution track](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/COMMONS-CONTRIBUTION-TRACKS.md) · [Review native M5Agents](https://github.com/orgs/TitleChain-Foundation/discussions/23) · [Introduce a proposal](https://github.com/orgs/TitleChain-Foundation/discussions/22) · [Open the SEC current status summary](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/sec-public-input/README.md)**
 
 > **The M5 architecture makes AI operationally useful without allowing AI, credentials, wallets, employees, contractors, APIs, or third-party systems to become unaccountable sources of authority.**
 
@@ -92,7 +92,7 @@ consolidating ownership, funds, operations, or authority.
 | [People's Trust Project Simulation](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/peoples-trust/README.md) | See the full visual story, understand the current terms, and review the simulation |
 | [M5 AI Sovereign Commons](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons) | Review the authority, agent, portability, communications, schema, and conformance proposals |
 | [SEC Public Input Summary](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/sec-public-input/README.md) | See the current docket status, dated Open Commons reviews, official sources, and live hourly observatory |
-| [SEC Transfer Agent Rules Project #2](https://github.com/orgs/TitleChain-Foundation/projects/2/views/2) | Follow seven scoped public-review topics and connect comments to actionable standards work |
+| [Live SEC Public Comment Observatory](https://titlechain-foundation.github.io/M5-AI-Sovereign-Commons/sec-observatory/) | Follow the official docket feed, source metadata, and clearly labeled review status |
 
 The visual cards describe the project vision. The linked simulation page states
 the current campaign, service, legal, and operational boundaries.
@@ -111,7 +111,7 @@ the current campaign, service, legal, and operational boundaries.
 | Follow the broader commons project board | **Coming soon:** [intake is open now in Discussion 22](https://github.com/orgs/TitleChain-Foundation/discussions/22) |
 | Review the demo or explore an activation program | [Visit Programs & Activation](https://github.com/orgs/TitleChain-Foundation/discussions/categories/programs-activation) |
 | Review the SEC filing's public reference artifacts | [Open the Appendix B artifact directory](https://github.com/orgs/TitleChain-Foundation/discussions/19) |
-| Track all seven SEC transfer-agent review topics | [Open the SEC public-review board](https://github.com/orgs/TitleChain-Foundation/projects/2/views/2) |
+| Check the current SEC docket and review status | [Open the SEC Public Input Summary](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/sec-public-input/README.md) |
 | Review the People's Trust project simulation and repeatable pipeline | [Open the visual simulation library](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/peoples-trust/README.md) |
 | See deadline and completion progress | [Open the SEC public-review milestone](https://github.com/TitleChain-Foundation/icsn-standards/milestone/2) |
 | Establish the free IAM starting point | [Set up your IAM account](https://m5bank.app/) |
