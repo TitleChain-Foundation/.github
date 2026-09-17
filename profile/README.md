@@ -16,7 +16,7 @@ anti-capture safeguards.
 The proposal is not enacted law, has not been introduced by a legislative
 office, and is not an adopted ICSN standard.
 
-**[Read the legislation](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/legislation/sovereign-compute-access-act/OFFICIAL-TEXT.md) · [Open the public-review hub](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/legislation/sovereign-compute-access-act/PUBLIC-REVIEW.md) · [Submit a public comment](https://github.com/orgs/TitleChain-Foundation/discussions/38) · [Explore ICSN](https://github.com/TitleChain-Foundation/icsn-standards)**
+**[Read the full legislation](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/legislation/sovereign-compute-access-act/OFFICIAL-TEXT.md) · [View the Act carousel](https://titlechain-foundation.github.io/icsn-standards/sovereign-compute-review/media/carousel/index.html) · [View the Open Weights + M5 carousel](https://titlechain-foundation.github.io/icsn-standards/sovereign-compute-review/media/open-weight-m5/index.html) · [Open the public-review hub](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/legislation/sovereign-compute-access-act/PUBLIC-REVIEW.md) · [Submit a public comment](https://github.com/orgs/TitleChain-Foundation/discussions/38) · [Explore ICSN](https://github.com/TitleChain-Foundation/icsn-standards)**
 
 Comments, legal analysis, technical review, accessibility feedback, proposed
 amendments, and legislative-office inquiries are welcome. Nonpublic inquiries
@@ -87,6 +87,27 @@ consolidating ownership, funds, operations, or authority.
 
 **[Learn about the project simulation and see the full visual story →](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/peoples-trust/README.md)**
 
+### 🏛️ 312 Spring Commons — the LA courthouse (PPT-EZ-CA-0001, conditional go / diligence)
+
+<details>
+<summary>View concept vision (illustrative only, not an approved design)</summary>
+
+[![Concept rendering: 312 Spring Commons illustrative vision, not an approved design](https://raw.githubusercontent.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/main/pilots/312-spring-commons/documents/images/312-spring-commons-concept-entrance.jpg)](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/312-spring-commons/README.md)
+
+</details>
+
+The next use case in the same pipeline: the historic Federal Building &
+U.S. Courthouse at 312 N. Spring Street, Los Angeles — a National
+Historic Landmark — tested against a federal Historic Surplus conveyance
+pathway. A 22-document investor/legal review package is open for public
+review now as a complete placeholder-template set demonstrating how
+human-readable terms, machine-readable policy, accountable executive authority,
+and executable code fit into a Ricardian workflow. **Draft/demonstration
+materials only; no document is final or executable, and publication is not an
+offer or transaction. See the pilot page for the full notice.**
+
+**[See the full document library and current terms →](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/312-spring-commons/README.md)**
+
 | Public project | What to do |
 | --- | --- |
 | [People's Trust Project Simulation](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/peoples-trust/README.md) | See the full visual story, understand the current terms, and review the simulation |
@@ -151,6 +172,9 @@ Publication, participation, waitlist enrollment, or sponsorship does not create 
 
 ## Press and media
 
-**September 3, 2026:** [TitleChain Foundation Opens Sovereign AI & Digital Asset Commons, Invites Builders](https://www.prlog.org/13168578-titlechain-foundation-opens-sovereign-ai-digital-asset-commons-invites-builders.html)
+- [TitleChain Foundation Opens Public Commons Reference Project for Real-World Asset Transfer](https://titlechainfoundation.org/press/public-commons-reference-project)
+- [TitleChain Foundation Publishes Model Legislation Guaranteeing Free Public Access to Open-Weight AI](https://titlechainfoundation.org/press/sovereign-compute-access-act)
+- [TitleChain Foundation Issues Global Call to Build Public-Commons for Human-Controlled AI](https://titlechainfoundation.org/global-call)
+- [TitleChain Foundation Opens Sovereign AI & Digital Asset Commons, Invites Builders](https://titlechainfoundation.org/announcement)
 
 For current Foundation information, visit [TitleChainFoundation.org](https://titlechainfoundation.org/). For M5 product, technology, architecture, research, and public media, visit [M5Bank.app](https://m5bank.app/). Media and partnership inquiries may be directed to [hello@titlechainfoundation.org](mailto:hello@titlechainfoundation.org).
