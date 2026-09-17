@@ -4,7 +4,23 @@
 
 We steward the public ICSN standards and are building pathways for women-led ventures to gain practical skills, identity, agency, technology, networks, and leadership opportunity.
 
-## Featured legislative review
+---
+
+## Start here — pick your door
+
+| I am a... | Go here |
+| --- | --- |
+| **Investor / funder** | [Featured projects](#featured-projects) · [Sponsor the Foundation](https://github.com/sponsors/TitleChain-Foundation) |
+| **Policy / legal reviewer** | [Legislative review](#legislative-review) · [SEC Public Input Summary](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/sec-public-input/README.md) |
+| **Builder / contributor** | [Skills we need](#skills-we-need) · [Explore ICSN Standards](https://github.com/TitleChain-Foundation/icsn-standards) |
+| **Prospective member** | [Set up your free IAM account](https://m5bank.app/) · [Reserve your M5POD](https://m5podactivationdemo.netlify.app/) |
+| **Press** | [Press and media](#press-and-media) |
+
+Every task from the original page is still here — see the [full task index](#all-pathways-by-task) at the bottom if you want everything in one table.
+
+---
+
+## Legislative review
 
 ### Sovereign Compute Access Act - Draft v1
 
@@ -22,6 +38,9 @@ Comments, legal analysis, technical review, accessibility feedback, proposed
 amendments, and legislative-office inquiries are welcome. Nonpublic inquiries
 may be sent to
 [support@titlechainfoundation.org](mailto:support@titlechainfoundation.org).
+
+<details>
+<summary>View supporting appendix diagrams (Sovereign Intelligence Stack, Open-Weight Compute Reference)</summary>
 
 ### Sovereign Intelligence Stack
 
@@ -50,9 +69,11 @@ accessibility, and implementation review.
 
 **[Open the full reference](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/legislation/sovereign-compute-access-act/appendices/OPEN-WEIGHT-COMPUTE-REFERENCE.html) · [Review the current seed questions](https://github.com/orgs/TitleChain-Foundation/discussions/38) · [Submit evidence or corrections](https://github.com/orgs/TitleChain-Foundation/discussions/38)**
 
-## From legislation to implementation
+</details>
 
-[![M5POD private member stack rooted in ICSN open standards, human identity, and member authority](assets/m5pod-stack.png)](https://github.com/TitleChain-Foundation/icsn-standards/tree/main/assets/public-review)
+---
+
+## From legislation to implementation
 
 We invite companies, providers, researchers, educators, workforce organizations, and people across technology, law, economics, statistics, finance, identity, privacy, security, accessibility, and community governance to help shape a public commons for the digital-asset edge economy. Participants can propose one bounded product, interface, dataset, methodology, skill, role-transition need, or training pathway across the stack.
 
@@ -62,13 +83,29 @@ We invite companies, providers, researchers, educators, workforce organizations,
 
 The visuals are **Illustrative Public Review Drafts**. They are not adopted standards, official statistics, regulated benchmarks, production deployments, credentials, certifications, or representations of government endorsement. Maintained repository text and governance records control where visual shorthand differs.
 
+<details>
+<summary>View architecture diagrams (M5POD stack, wallet controls, economic layers)</summary>
+
+**M5POD private member stack**
+
+[![M5POD private member stack rooted in ICSN open standards, human identity, and member authority](assets/m5pod-stack.png)](https://github.com/TitleChain-Foundation/icsn-standards/tree/main/assets/public-review)
+
 | Human-authorized wallet and agent controls | Economic and rights layers |
 | --- | --- |
 | [![From a bare wallet address to a layered, human-authorized foundation](assets/m5-wallet-layer-stack.png)](https://github.com/TitleChain-Foundation/icsn-standards/tree/main/assets/public-review) | [![M5 economics with account, asset, rights, and authority layers](assets/m5-economic-stack.png)](https://github.com/TitleChain-Foundation/icsn-standards/tree/main/assets/public-review) |
 
-## Featured project simulation
+</details>
+
+---
+
+## Featured projects
+
+<details>
+<summary>View People's Trust project wish-list visual</summary>
 
 [![Project wish list: 275,000 acres, back in American hands](assets/peoples-trust-project-wish-list.png)](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/peoples-trust/README.md)
+
+</details>
 
 ### People's Trust: one farm use case, a repeatable national framework
 
@@ -118,30 +155,7 @@ offer or transaction. See the pilot page for the full notice.**
 The visual cards describe the project vision. The linked simulation page states
 the current campaign, service, legal, and operational boundaries.
 
-## Start here
-
-| I want to | Go here |
-| --- | --- |
-| Review the Sovereign Compute Access Act Draft v1 | [Read the draft and comment publicly](https://github.com/orgs/TitleChain-Foundation/discussions/38) |
-| Ask, introduce myself, share an idea, or offer a skill | [Use Contributor Q&A](https://github.com/orgs/TitleChain-Foundation/discussions/categories/contributor-q-a) |
-| Show how a company, product, dataset, or methodology can support the stack | [Use the commons contribution tracks](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/COMMONS-CONTRIBUTION-TRACKS.md) |
-| Find where my expertise, product, or learning goal fits | [Explore all 37 SOPHIA tracks](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/docs/SOPHIA-37-TRACK-PARTICIPATION-MAP.md) |
-| Share expertise, role changes, or training needs without posting a private CV | [Use the public-safe workforce pathway](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/COMMONS-CONTRIBUTION-TRACKS.md#expertise-m5-cv-and-changing-roles) |
-| Introduce a provider, economic-data, workforce, or training proposal | [Join Discussion 22](https://github.com/orgs/TitleChain-Foundation/discussions/22) |
-| Review native M5Agents, authority controls, graphs, threats, and verification | [Start with the M5-agent discussion series](https://github.com/orgs/TitleChain-Foundation/discussions/23) |
-| Follow the broader commons project board | **Coming soon:** [intake is open now in Discussion 22](https://github.com/orgs/TitleChain-Foundation/discussions/22) |
-| Review the demo or explore an activation program | [Visit Programs & Activation](https://github.com/orgs/TitleChain-Foundation/discussions/categories/programs-activation) |
-| Review the SEC filing's public reference artifacts | [Open the Appendix B artifact directory](https://github.com/orgs/TitleChain-Foundation/discussions/19) |
-| Check the current SEC docket and review status | [Open the SEC Public Input Summary](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/sec-public-input/README.md) |
-| Review the People's Trust project simulation and repeatable pipeline | [Open the visual simulation library](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/peoples-trust/README.md) |
-| See deadline and completion progress | [Open the SEC public-review milestone](https://github.com/TitleChain-Foundation/icsn-standards/milestone/2) |
-| Establish the free IAM starting point | [Set up your IAM account](https://m5bank.app/) |
-| Join the M5POD activation waitlist | [Reserve your M5POD](https://m5podactivationdemo.netlify.app/) |
-| Review standards or claim scoped work | [Explore ICSN Standards](https://github.com/TitleChain-Foundation/icsn-standards) |
-| Fund public work and contributor capacity | [Sponsor the Foundation](https://github.com/sponsors/TitleChain-Foundation) |
-| Discuss an organizational partnership | [Contact the Foundation](mailto:hello@titlechainfoundation.org) |
-
-**One public pathway:** Discussion -> scoped Issue -> contribution -> independent review -> evidence -> release.
+---
 
 ## Skills we need
 
@@ -150,6 +164,8 @@ We welcome focused help from engineers, architects, security and privacy reviewe
 [Choose a contribution by skill](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/CONTRIBUTOR-PATHWAYS.md). You can review one flow, test one claim, improve one document, or recommend one concrete change.
 
 The organization currently has three GitHub members. Public participation does not require organization membership, IAM, an M5 account, or a funded role. We are building a public contribution record while raising funds for defined work.
+
+**One public pathway:** Discussion -> scoped Issue -> contribution -> independent review -> evidence -> release.
 
 ## What is public and private
 
@@ -178,3 +194,33 @@ Publication, participation, waitlist enrollment, or sponsorship does not create 
 - [TitleChain Foundation Opens Sovereign AI & Digital Asset Commons, Invites Builders](https://titlechainfoundation.org/announcement)
 
 For current Foundation information, visit [TitleChainFoundation.org](https://titlechainfoundation.org/). For M5 product, technology, architecture, research, and public media, visit [M5Bank.app](https://m5bank.app/). Media and partnership inquiries may be directed to [hello@titlechainfoundation.org](mailto:hello@titlechainfoundation.org).
+
+---
+
+## All pathways by task
+
+<details>
+<summary>Full task index</summary>
+
+| I want to | Go here |
+| --- | --- |
+| Review the Sovereign Compute Access Act Draft v1 | [Read the draft and comment publicly](https://github.com/orgs/TitleChain-Foundation/discussions/38) |
+| Ask, introduce myself, share an idea, or offer a skill | [Use Contributor Q&A](https://github.com/orgs/TitleChain-Foundation/discussions/categories/contributor-q-a) |
+| Show how a company, product, dataset, or methodology can support the stack | [Use the commons contribution tracks](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/COMMONS-CONTRIBUTION-TRACKS.md) |
+| Find where my expertise, product, or learning goal fits | [Explore all 37 SOPHIA tracks](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/docs/SOPHIA-37-TRACK-PARTICIPATION-MAP.md) |
+| Share expertise, role changes, or training needs without posting a private CV | [Use the public-safe workforce pathway](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/COMMONS-CONTRIBUTION-TRACKS.md#expertise-m5-cv-and-changing-roles) |
+| Introduce a provider, economic-data, workforce, or training proposal | [Join Discussion 22](https://github.com/orgs/TitleChain-Foundation/discussions/22) |
+| Review native M5Agents, authority controls, graphs, threats, and verification | [Start with the M5-agent discussion series](https://github.com/orgs/TitleChain-Foundation/discussions/23) |
+| Follow the broader commons project board | **Coming soon:** [intake is open now in Discussion 22](https://github.com/orgs/TitleChain-Foundation/discussions/22) |
+| Review the demo or explore an activation program | [Visit Programs & Activation](https://github.com/orgs/TitleChain-Foundation/discussions/categories/programs-activation) |
+| Review the SEC filing's public reference artifacts | [Open the Appendix B artifact directory](https://github.com/orgs/TitleChain-Foundation/discussions/19) |
+| Check the current SEC docket and review status | [Open the SEC Public Input Summary](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/sec-public-input/README.md) |
+| Review the People's Trust project simulation and repeatable pipeline | [Open the visual simulation library](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/peoples-trust/README.md) |
+| See deadline and completion progress | [Open the SEC public-review milestone](https://github.com/TitleChain-Foundation/icsn-standards/milestone/2) |
+| Establish the free IAM starting point | [Set up your IAM account](https://m5bank.app/) |
+| Join the M5POD activation waitlist | [Reserve your M5POD](https://m5podactivationdemo.netlify.app/) |
+| Review standards or claim scoped work | [Explore ICSN Standards](https://github.com/TitleChain-Foundation/icsn-standards) |
+| Fund public work and contributor capacity | [Sponsor the Foundation](https://github.com/sponsors/TitleChain-Foundation) |
+| Discuss an organizational partnership | [Contact the Foundation](mailto:hello@titlechainfoundation.org) |
+
+</details>
