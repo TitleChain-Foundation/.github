@@ -16,7 +16,7 @@ anti-capture safeguards.
 The proposal is not enacted law, has not been introduced by a legislative
 office, and is not an adopted ICSN standard.
 
-**[Read the legislation](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/legislation/sovereign-compute-access-act/OFFICIAL-TEXT.md) · [Open the public-review hub](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/legislation/sovereign-compute-access-act/PUBLIC-REVIEW.md) · [Submit a public comment](https://github.com/orgs/TitleChain-Foundation/discussions/38) · [Explore ICSN](https://github.com/TitleChain-Foundation/icsn-standards)**
+**[Read the full legislation](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/legislation/sovereign-compute-access-act/OFFICIAL-TEXT.md) · [View the Act carousel](https://titlechain-foundation.github.io/icsn-standards/sovereign-compute-review/media/carousel/index.html) · [View the Open Weights + M5 carousel](https://titlechain-foundation.github.io/icsn-standards/sovereign-compute-review/media/open-weight-m5/index.html) · [Open the public-review hub](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/legislation/sovereign-compute-access-act/PUBLIC-REVIEW.md) · [Submit a public comment](https://github.com/orgs/TitleChain-Foundation/discussions/38) · [Explore ICSN](https://github.com/TitleChain-Foundation/icsn-standards)**
 
 Comments, legal analysis, technical review, accessibility feedback, proposed
 amendments, and legislative-office inquiries are welcome. Nonpublic inquiries
