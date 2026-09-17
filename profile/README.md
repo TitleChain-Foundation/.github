@@ -100,9 +100,11 @@ The next use case in the same pipeline: the historic Federal Building &
 U.S. Courthouse at 312 N. Spring Street, Los Angeles — a National
 Historic Landmark — tested against a federal Historic Surplus conveyance
 pathway. A 22-document investor/legal review package is open for public
-review now — offering-specific documents are available on request
-pending distribution review. **Draft/demonstration materials only; see
-the pilot page for the full notice.**
+review now as a complete placeholder-template set demonstrating how
+human-readable terms, machine-readable policy, accountable executive authority,
+and executable code fit into a Ricardian workflow. **Draft/demonstration
+materials only; no document is final or executable, and publication is not an
+offer or transaction. See the pilot page for the full notice.**
 
 **[See the full document library and current terms →](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/312-spring-commons/README.md)**
 
