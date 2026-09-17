@@ -172,6 +172,9 @@ Publication, participation, waitlist enrollment, or sponsorship does not create 
 
 ## Press and media
 
-**September 3, 2026:** [TitleChain Foundation Opens Sovereign AI & Digital Asset Commons, Invites Builders](https://www.prlog.org/13168578-titlechain-foundation-opens-sovereign-ai-digital-asset-commons-invites-builders.html)
+- [TitleChain Foundation Opens Public Commons Reference Project for Real-World Asset Transfer](https://titlechainfoundation.org/press/public-commons-reference-project)
+- [TitleChain Foundation Publishes Model Legislation Guaranteeing Free Public Access to Open-Weight AI](https://titlechainfoundation.org/press/sovereign-compute-access-act)
+- [TitleChain Foundation Issues Global Call to Build Public-Commons for Human-Controlled AI](https://titlechainfoundation.org/global-call)
+- [TitleChain Foundation Opens Sovereign AI & Digital Asset Commons, Invites Builders](https://titlechainfoundation.org/announcement)
 
 For current Foundation information, visit [TitleChainFoundation.org](https://titlechainfoundation.org/). For M5 product, technology, architecture, research, and public media, visit [M5Bank.app](https://m5bank.app/). Media and partnership inquiries may be directed to [hello@titlechainfoundation.org](mailto:hello@titlechainfoundation.org).
