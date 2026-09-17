@@ -87,6 +87,25 @@ consolidating ownership, funds, operations, or authority.
 
 **[Learn about the project simulation and see the full visual story →](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/peoples-trust/README.md)**
 
+### 🏛️ 312 Spring Commons — the LA courthouse (PPT-EZ-CA-0001, conditional go / diligence)
+
+<details>
+<summary>View concept vision (illustrative only, not an approved design)</summary>
+
+[![Concept rendering: 312 Spring Commons illustrative vision, not an approved design](https://raw.githubusercontent.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/main/pilots/312-spring-commons/documents/images/312-spring-commons-concept-entrance.jpg)](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/312-spring-commons/README.md)
+
+</details>
+
+The next use case in the same pipeline: the historic Federal Building &
+U.S. Courthouse at 312 N. Spring Street, Los Angeles — a National
+Historic Landmark — tested against a federal Historic Surplus conveyance
+pathway. A 22-document investor/legal review package is open for public
+review now — offering-specific documents are available on request
+pending distribution review. **Draft/demonstration materials only; see
+the pilot page for the full notice.**
+
+**[See the full document library and current terms →](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/312-spring-commons/README.md)**
+
 | Public project | What to do |
 | --- | --- |
 | [People's Trust Project Simulation](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/peoples-trust/README.md) | See the full visual story, understand the current terms, and review the simulation |
