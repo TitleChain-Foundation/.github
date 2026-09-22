@@ -1,9 +1,12 @@
 # TitleChain Foundation
 
-**Human authority first. Open infrastructure for the human + AI economy.**
+**Public infrastructure for the Edge Economy. Human authority first.**
 
-We steward the public ICSN standards and are building pathways for women-led ventures to gain practical skills, identity, agency, technology, networks, and leadership opportunity.
+TitleChain Foundation stewards open standards, open-source infrastructure, and public research designed to move identity, assets, intelligence, and economic agency back to the edge — to people, businesses, communities, and sovereign institutions and nations.
 
+We are building the public commons for a human + AI economy where agreements, rights, and digital assets can move with verifiable trust; decisions are auditable; agents remain accountable to humans; and no single company controls the trust layer.
+
+Open standards. Open source. Open weights. Verifiable rights. Human control.
 ---
 
 ## Start here — pick your door
@@ -29,8 +32,17 @@ local access to open-weight AI, human authority over agent actions,
 state-primary administration, vendor neutrality, public disclosures, and
 anti-capture safeguards.
 
-The proposal is not enacted law, has not been introduced by a legislative
-office, and is not an adopted ICSN standard.
+Status and Public-Interest Work
+
+This proposal is not enacted law, has not been introduced by a legislative office, and is not yet an adopted ICSN standard. It is published for research, education, public review, and further legislative and standards development.
+
+It is part of a broader body of work developed, presented, and advanced since 2017 across legislation, regulatory testimony, open standards, public education, and technical infrastructure for the emerging human + AI and digital-asset economy.
+
+That work includes initiatives and proposals addressing the Bill of AI-Chip Rights, BRIDGE — Blockchain Registry Inter-bank Digital Asset Exchange, Swift-BRIDGE, the Sovereign Compute Access Act, Digital Asset Property Title Rights, 23andMine, and related frameworks for sovereign identity, digital property, compute access, machine authority, financial infrastructure, and human rights in an AI-native economy.
+
+The purpose of publishing this work in the public commons is to make the underlying research, architecture, draft language, testimony, and technical standards available for independent review, improvement, implementation, and consideration by lawmakers, regulators, researchers, technologists, and the public.
+
+These are not claims of enacted law. They are part of an ongoing public body of work designed to help develop the legal and technical infrastructure for the next generation of the digital economy.
 
 **[Read the full legislation](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/legislation/sovereign-compute-access-act/OFFICIAL-TEXT.md) · [View the Act carousel](https://titlechain-foundation.github.io/icsn-standards/sovereign-compute-review/media/carousel/index.html) · [View the Open Weights + M5 carousel](https://titlechain-foundation.github.io/icsn-standards/sovereign-compute-review/media/open-weight-m5/index.html) · [Open the public-review hub](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/legislation/sovereign-compute-access-act/PUBLIC-REVIEW.md) · [Submit a public comment](https://github.com/orgs/TitleChain-Foundation/discussions/38) · [Explore ICSN](https://github.com/TitleChain-Foundation/icsn-standards)**
 
