@@ -52,7 +52,7 @@ may be sent to
 [support@titlechainfoundation.org](mailto:support@titlechainfoundation.org).
 
 <details>
-<summary>View supporting appendix diagrams (Sovereign Intelligence Stack, Open-Weight Compute Reference)</summary>
+<summary>CLICK TO View supporting appendix diagrams (Sovereign Intelligence Stack, Open-Weight Compute Reference)</summary>
 
 ### Sovereign Intelligence Stack
 
@@ -113,7 +113,7 @@ The visuals are **Illustrative Public Review Drafts**. They are not adopted stan
 ## Featured projects
 
 <details>
-<summary>View People's Trust project wish-list visual</summary>
+<summary> CLICK TO View People's Trust project wish-list visual</summary>
 
 [![Project wish list: 275,000 acres, back in American hands](assets/peoples-trust-project-wish-list.png)](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/peoples-trust/README.md)
 
@@ -139,7 +139,7 @@ consolidating ownership, funds, operations, or authority.
 ### 🏛️ 312 Spring Commons — the LA courthouse (PPT-EZ-CA-0001, conditional go / diligence)
 
 <details>
-<summary>View concept vision (illustrative only, not an approved design)</summary>
+<summary> CLICK TO View concept vision (illustrative only, not an approved design)</summary>
 
 [![Concept rendering: 312 Spring Commons illustrative vision, not an approved design](https://raw.githubusercontent.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/main/pilots/312-spring-commons/documents/images/312-spring-commons-concept-entrance.jpg)](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/312-spring-commons/README.md)
 
