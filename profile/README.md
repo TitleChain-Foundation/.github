@@ -112,60 +112,81 @@ The visuals are **Illustrative Public Review Drafts**. They are not adopted stan
 
 ## Featured projects
 
-<details>
-<summary> CLICK TO View People's Trust project wish-list visual</summary>
+Three public development simulations connect the Commons standards to assets,
+authority, financing boundaries, and accountable records. These are research
+and diligence projects, not offerings, approved transactions, or grants of authority.
 
-[![Project wish list: 275,000 acres, back in American hands](assets/peoples-trust-project-wish-list.png)](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/peoples-trust/README.md)
+### GSA / CRE
 
-</details>
+#### 312 Spring Commons — California
 
-### People's Trust: one farm use case, a repeatable national framework
+[![312 Spring Commons concept plaza](https://raw.githubusercontent.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/main/pilots/312-spring-commons/documents/images/312-spring-commons-concept-plaza.jpg)](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/312-spring-commons/README.md)
 
-The People's Trust project simulation follows one real-world farm use case
-through the complete TitleChain agent, registry, chain, credential, authority,
-title, stewardship, and activation process using sample, non-production
-records. The work is published so regulators, legislators, operators,
-communities, and the public can examine the same process and evidence.
+A public real-estate and historic-reuse simulation centered on 312 N. Spring
+Street, Los Angeles. It connects GSA disposition diligence, title and public-owner
+authority, capital provenance, rehabilitation, and public-benefit operations.
+The updated work includes *The Bear Comes Home* and the **Public Bank of
+California concept**, with bank/escrow and securities records kept separate.
 
-The **275,000 acres** are a project wish list and target pipeline developed from
-years of private research. The number is not a claim that the Foundation or the
-People's Trust currently owns, controls, has under contract, or is offering
-those acres. Pilot 001 tests the complete process. Pilot 002 tests independent
-replication. Pilot 003+ tests whether the framework can scale without
-consolidating ownership, funds, operations, or authority.
+**Concept and diligence only:** no property award, bank charter, California-agency
+status, deposit-taking, committed financing, or regulated-intermediary status.
 
-**[Learn about the project simulation and see the full visual story →](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/peoples-trust/README.md)**
+[Explore Spring Commons](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/312-spring-commons/README.md) ·
+[Read The Bear Comes Home](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/312-spring-commons/briefs/PPT-EZ-CA-0001-THE-BEAR-COMES-HOME-PUBLIC-BANK-OF-CALIFORNIA-CONCEPT-v0.1.md) ·
+[Review GSA diligence](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/312-spring-commons/update-notes/GSA-PATHWAY-AND-APPLICATION-READINESS.md) ·
+[Initial capital tranche brief](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/312-spring-commons/documents/summaries/SPRING-INITIAL-CAPITAL-TRANCHE-BRIEF.md)
 
-### 🏛️ 312 Spring Commons — the LA courthouse (PPT-EZ-CA-0001, conditional go / diligence)
+### FARMLAND / REDEVELOPMENT
 
-<details>
-<summary> CLICK TO View concept vision (illustrative only, not an approved design)</summary>
+#### America's People's Trust Farmland
 
-[![Concept rendering: 312 Spring Commons illustrative vision, not an approved design](https://raw.githubusercontent.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/main/pilots/312-spring-commons/documents/images/312-spring-commons-concept-entrance.jpg)](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/312-spring-commons/README.md)
+[![America's People's Trust Farmland project vision](https://raw.githubusercontent.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/main/pilots/peoples-trust/visuals/00-project-wish-list.png)](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/peoples-trust/README.md)
 
-</details>
+A repeatable stewardship simulation connecting farmland, food production, local
+operators, title and economic-right separation, correction, and portable evidence.
+Pilot 001 tests the sample-data process; later pilots are intended to test
+independent replication and scale without concentrating ownership or authority.
 
-The next use case in the same pipeline: the historic Federal Building &
-U.S. Courthouse at 312 N. Spring Street, Los Angeles — a National
-Historic Landmark — tested against a federal Historic Surplus conveyance
-pathway. A 22-document investor/legal review package is open for public
-review now as a complete placeholder-template set demonstrating how
-human-readable terms, machine-readable policy, accountable executive authority,
-and executable code fit into a Ricardian workflow. **Draft/demonstration
-materials only; no document is final or executable, and publication is not an
-offer or transaction. See the pilot page for the full notice.**
+The **275,000-acre figure is a research-pipeline target**, not acreage owned,
+controlled, under contract, or offered by the Foundation or People's Trust.
 
-**[See the full document library and current terms →](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/312-spring-commons/README.md)**
+[Explore the Farmland simulation](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/peoples-trust/README.md) ·
+[Capital & Operating Partner Brief](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/peoples-trust/CAPITAL-AND-OPERATING-PARTNER-BRIEF.md)
 
-| Public project | What to do |
-| --- | --- |
-| [People's Trust Project Simulation](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/peoples-trust/README.md) | See the full visual story, understand the current terms, and review the simulation |
-| [M5 AI Sovereign Commons](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons) | Review the authority, agent, portability, communications, schema, and conformance proposals |
-| [SEC Public Input Summary](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/sec-public-input/README.md) | See the current docket status, dated Open Commons reviews, official sources, and live hourly observatory |
-| [Live SEC Public Comment Observatory](https://titlechain-foundation.github.io/M5-AI-Sovereign-Commons/sec-observatory/) | Follow the official docket feed, source metadata, and clearly labeled review status |
+### GLOBAL DEVELOPMENT PROJECT
 
-The visual cards describe the project vision. The linked simulation page states
-the current campaign, service, legal, and operational boundaries.
+#### Global UN Commons — UN-NY-0001
+
+[![Global UN Commons V1 concept masterplan](https://raw.githubusercontent.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/main/pilots/global-un-commons/visuals/v1-un-commons-18-acre-masterplan.png)](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/global-un-commons/README.md)
+
+*Global UN Commons — concept and design by TitleChain Foundation (2026).*
+
+An international development concept exploring public-record and transfer-agent
+interoperability across a proposed 193-Member-State jurisdiction-profile inventory.
+The V1–V4 visual library preserves the project's progression and supporting research.
+
+**Independent concept:** no United Nations or Member State endorsement, government
+participation, nation-chain activation, or institutional authority is implied.
+Each jurisdiction requires its own lawful mandate and accountable operators.
+
+[Explore Global UN Commons](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/global-un-commons/README.md) ·
+[View the V1–V4 visual library](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/global-un-commons/visuals/README.md) ·
+[Founding Institutional Underwriter Brief](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/global-un-commons/FOUNDING-INSTITUTIONAL-UNDERWRITER-BRIEF.md)
+
+---
+
+## Commons standards and SEC public review
+
+SEC public input is a cross-cutting research and public-review layer across the
+three development lanes. Repository reviews and GitHub comments are not SEC
+submissions, adopted rules, or SEC endorsement. The Foundation's September 5
+filing remains distinct from its September 24 implementation review.
+
+[Explore the M5 AI Sovereign Commons](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons) ·
+[SEC Public Input Summary](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/sec-public-input/README.md) ·
+[Pilot/SEC Crosswalk v0.2](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/docs/PILOT-SEC-RFI-CROSSWALK.md) ·
+[September 24 Open Commons Review](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/sec-public-input/open-commons-review/2026-09-24.md) ·
+[Live SEC Public Comment Observatory](https://titlechain-foundation.github.io/M5-AI-Sovereign-Commons/sec-observatory/)
 
 ---
 
