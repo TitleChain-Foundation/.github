@@ -7,6 +7,13 @@ TitleChain Foundation stewards open standards, open-source infrastructure, and p
 We are building the public commons for a human + AI economy where agreements, rights, and digital assets can move with verifiable trust; decisions are auditable; agents remain accountable to humans; and no single company controls the trust layer.
 
 Open standards. Open source. Open weights. Verifiable rights. Human control.
+
+| Front door | What you'll find |
+| --- | --- |
+| [**titlechainfoundation.org**](https://titlechainfoundation.org) | The Foundation: mission, M5-CV, press and public calls |
+| [**ICSN Standards**](https://github.com/TitleChain-Foundation/icsn-standards) | The specifications: namespaces, classifications, bridge mappings and legislation |
+| [**M5 AI Sovereign Commons**](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons) | The standards applied: three real-world projects, SEC review and SHADOW public research. [Glossary](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/GLOSSARY.md) |
+| [**m5bank.app**](https://m5bank.app) | The M5 member entry point: whitepapers, including *Pax Economica*, the FAQ and sign-up |
 ---
 
 ## Start here — pick your door
