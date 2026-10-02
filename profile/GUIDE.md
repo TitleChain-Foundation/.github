@@ -1,24 +1,14 @@
-<a href="https://titlechainfoundation.org">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TitleChain-Foundation/.github/main/profile/assets/titlechain-wordmark-dark.png">
-    <img src="https://raw.githubusercontent.com/TitleChain-Foundation/.github/main/profile/assets/titlechain-wordmark-light.png" alt="titlechain" width="560">
-  </picture>
-</a>
+# TitleChain Foundation — full guide
 
-**We're [TitleChain Foundation](https://titlechainfoundation.org), a nonprofit that stewards open standards, open-source infrastructure and public research for a human + AI economy where human authority comes first.** We serve people, businesses, communities, and public institutions that need agreements, rights, and digital assets to move with verifiable trust, so that decisions are auditable, agents remain accountable to humans, and no single company controls the trust layer.
+[← Back to the Foundation profile](https://github.com/TitleChain-Foundation)
 
-[Explore the standards](https://github.com/TitleChain-Foundation/icsn-standards) • [Join the discussion](https://github.com/orgs/TitleChain-Foundation/discussions) • [Follow the SEC review](https://titlechain-foundation.github.io/M5-AI-Sovereign-Commons/sec-observatory/) • [Sponsor our work](https://github.com/sponsors/TitleChain-Foundation) • [More on our website](https://titlechainfoundation.org)
+**Public infrastructure for the Edge Economy. Human authority first.**
+
+TitleChain Foundation stewards open standards, open-source infrastructure, and public research designed to move identity, assets, intelligence, and economic agency back to the edge — to people, businesses, communities, and sovereign institutions and nations.
 
 We are building the public commons for a human + AI economy where agreements, rights, and digital assets can move with verifiable trust; decisions are auditable; agents remain accountable to humans; and no single company controls the trust layer.
 
 Open standards. Open source. Open weights. Verifiable rights. Human control.
-
-| Front door | What you'll find |
-| --- | --- |
-| [**titlechainfoundation.org**](https://titlechainfoundation.org) | The Foundation: mission, M5-CV, press and public calls |
-| [**ICSN Standards**](https://github.com/TitleChain-Foundation/icsn-standards) | The specifications: namespaces, classifications, bridge mappings and legislation |
-| [**M5 AI Sovereign Commons**](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons) | The standards applied: three real-world projects, SEC review and SHADOW public research. [Glossary](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/GLOSSARY.md) |
-| [**m5bank.app**](https://m5bank.app) | The M5 member entry point: whitepapers, including *Pax Economica*, the FAQ and sign-up |
 ---
 
 ## Start here — pick your door
@@ -248,11 +238,24 @@ For current Foundation information, visit [TitleChainFoundation.org](https://tit
 <summary>Full task index</summary>
 
 | I want to | Go here |
-| Front door | What you'll find |
 | --- | --- |
-| [**ICSN Standards**](https://github.com/TitleChain-Foundation/icsn-standards) | The specifications: namespaces, classifications, bridge mappings and legislation |
-| [**M5 AI Sovereign Commons**](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons) | The standards applied: three real-world projects, SEC review and public research |
-| [**titlechainfoundation.org**](https://titlechainfoundation.org) | The Foundation: mission, press and public calls |
-| [**m5bank.app**](https://m5bank.app) | The M5 member entry point: whitepapers, FAQ and sign-up |
+| Review the Sovereign Compute Access Act Draft v1 | [Read the draft and comment publicly](https://github.com/orgs/TitleChain-Foundation/discussions/38) |
+| Ask, introduce myself, share an idea, or offer a skill | [Use Contributor Q&A](https://github.com/orgs/TitleChain-Foundation/discussions/categories/contributor-q-a) |
+| Show how a company, product, dataset, or methodology can support the stack | [Use the commons contribution tracks](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/COMMONS-CONTRIBUTION-TRACKS.md) |
+| Find where my expertise, product, or learning goal fits | [Explore all 37 SOPHIA tracks](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/docs/SOPHIA-37-TRACK-PARTICIPATION-MAP.md) |
+| Share expertise, role changes, or training needs without posting a private CV | [Use the public-safe workforce pathway](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/COMMONS-CONTRIBUTION-TRACKS.md#expertise-m5-cv-and-changing-roles) |
+| Introduce a provider, economic-data, workforce, or training proposal | [Join Discussion 22](https://github.com/orgs/TitleChain-Foundation/discussions/22) |
+| Review native M5Agents, authority controls, graphs, threats, and verification | [Start with the M5-agent discussion series](https://github.com/orgs/TitleChain-Foundation/discussions/23) |
+| Follow the broader commons project board | **Coming soon:** [intake is open now in Discussion 22](https://github.com/orgs/TitleChain-Foundation/discussions/22) |
+| Review the demo or explore an activation program | [Visit Programs & Activation](https://github.com/orgs/TitleChain-Foundation/discussions/categories/programs-activation) |
+| Review the SEC filing's public reference artifacts | [Open the Appendix B artifact directory](https://github.com/orgs/TitleChain-Foundation/discussions/19) |
+| Check the current SEC docket and review status | [Open the SEC Public Input Summary](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/sec-public-input/README.md) |
+| Review the People's Trust project simulation and repeatable pipeline | [Open the visual simulation library](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/peoples-trust/README.md) |
+| See deadline and completion progress | [Open the SEC public-review milestone](https://github.com/TitleChain-Foundation/icsn-standards/milestone/2) |
+| Establish the free IAM starting point | [Set up your IAM account](https://m5bank.app/) |
+| Join the M5POD activation waitlist | [Reserve your M5POD](https://m5podactivationdemo.netlify.app/) |
+| Review standards or claim scoped work | [Explore ICSN Standards](https://github.com/TitleChain-Foundation/icsn-standards) |
+| Fund public work and contributor capacity | [Sponsor the Foundation](https://github.com/sponsors/TitleChain-Foundation) |
+| Discuss an organizational partnership | [Contact the Foundation](mailto:hello@titlechainfoundation.org) |
 
-<sub>Open standards. Open source. Open weights. Verifiable rights. Human control. · [Full guide, projects and task index →](https://github.com/TitleChain-Foundation/.github/blob/main/profile/GUIDE.md)</sub>
+</details>
