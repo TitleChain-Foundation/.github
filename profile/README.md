@@ -132,10 +132,21 @@ The visuals are **Illustrative Public Review Drafts**. They are not adopted stan
 
 ## Featured projects
 
-Three public development simulations and the Norton Ranch Blueprint connect the
-Commons standards to assets, authority, financing boundaries, and accountable records.
-These are research and diligence projects, not offerings, approved transactions, or
-grants of authority.
+**We simulate every project end to end, in public, before anyone relies on it.**
+Each one uses real schemas, real code, and the same authority, title, evidence,
+and financing steps a live operator would follow, with synthetic data. Anyone
+can inspect, test, and challenge the process before it touches a real building,
+farm, animal, or dollar.
+
+**Our goal is to pass the [Sovereign Compute Access Act](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/legislation/sovereign-compute-access-act/OFFICIAL-TEXT.md).**
+The projects below show what the Act would make possible for everyone: any
+person, family business, or cooperative running its own entity with sovereign
+AI, local compute, and private data that it owns, with AI agents that answer to
+the humans who authorize them. The Act is model legislation for public review.
+It is not enacted law and has not been introduced.
+
+These are research and diligence simulations, not offerings, approved
+transactions, or grants of authority.
 
 ### GSA / CRE
 
@@ -192,21 +203,32 @@ controlled, under contract, or offered by the Foundation or People's Trust.
 
 *If my grandfather were here today, he would be the first customer I would want to serve.*
 
-The complete farmer-controlled implementation package that puts the farmland
-work into farmers' and ranchers' hands. Robert Norton built Central Packing Co.,
-one of the early Colorado meat companies exporting American beef to Japan; the
-blueprint carries that family business forward: know where the food comes from,
-stand behind it, and never make the producer surrender control to participate.
-Its first reference implementation, **Sovereign Herd**, is farmer-controlled
-livestock monitoring that keeps herd data in the farm's own local environment.
-**The animal is not the subscription.**
+The farmland work, packaged so farmers and ranchers can run it themselves.
+Robert Norton built Central Packing Co., one of the early Colorado meat companies
+exporting American beef to Japan. The blueprint carries that family business
+forward: know where the food comes from, stand behind it, and never make the
+producer surrender control to participate. **The animal is not the subscription.**
 
-**Draft for public review:** documentation, schemas, synthetic examples, and a
-local-only utility. No packaged M5 Desktop installer is claimed to be available yet.
+**One download, on your own computer.** The complete Blueprint is a single
+verified package: documents, farm, herd, animal, and device schemas, synthetic
+examples, free and public data registries, and the local-only **Sovereign Herd**
+utility. It runs with no network connection and no vendor cloud. Plan your
+records today and keep the data on your own machine.
 
+> [!IMPORTANT]
+> **Not a licensed M5POD until you register and activate.** The download is an
+> unregistered commons starter. It becomes part of a licensed M5POD only after you
+> [register](https://m5bank.app/), [activate your M5POD](https://m5podactivationdemo.netlify.app/),
+> register your farm or ranch entity, and activate the M5 farm tools.
+
+**What the Act would guarantee, at ranch scale:** free local open-weight AI in
+your own Sovereign Pod (Sec. 101), farm data that remains your property (Sec. 202),
+and agents that act only on authority you can revoke (Sec. 203).
+
+[**Download the M5POD starter package**](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/norton-ranch-blueprint/M5POD-PACKAGE.md) ·
 [Explore the Norton Ranch Blueprint](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/norton-ranch-blueprint/README.md) ·
 [Farmer Toolkit](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/norton-ranch-blueprint/FARMER-TOOLKIT.md) ·
-[Sovereign Herd](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/norton-ranch-blueprint/sovereign-herd/README.md) ·
+[Why it matters: the Act](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/norton-ranch-blueprint/M5POD-PACKAGE.md#why-this-matters-the-sovereign-compute-access-act) ·
 [Read the founder's dedication](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/norton-ranch-blueprint/WHY-THIS-COMMONS-EXISTS.md)
 
 ### GLOBAL DEVELOPMENT PROJECT
