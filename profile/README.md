@@ -68,7 +68,11 @@ may be sent to
 
 ### Sovereign Intelligence Stack
 
-[![The Sovereign Intelligence Stack: a human-first reference architecture from Bank of Me through Bank of Government](https://raw.githubusercontent.com/TitleChain-Foundation/icsn-standards/main/legislation/sovereign-compute-access-act/appendices/SOVEREIGN-INTELLIGENCE-STACK.png)](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/legislation/sovereign-compute-access-act/appendices/SOVEREIGN-INTELLIGENCE-STACK.html)
+<p align="center">
+  <a href="https://github.com/TitleChain-Foundation/icsn-standards/blob/main/legislation/sovereign-compute-access-act/appendices/SOVEREIGN-INTELLIGENCE-STACK.html">
+    <img src="https://raw.githubusercontent.com/TitleChain-Foundation/icsn-standards/main/legislation/sovereign-compute-access-act/appendices/SOVEREIGN-INTELLIGENCE-STACK.png" width="560" alt="The Sovereign Intelligence Stack: a human-first reference architecture from Bank of Me through Bank of Government">
+  </a>
+</p>
 
 A human-first reference architecture for locally controlled intelligence,
 memory, authority, and optional external providers across personal, community,
@@ -112,7 +116,11 @@ The visuals are **Illustrative Public Review Drafts**. They are not adopted stan
 
 **M5POD private member stack**
 
-[![M5POD private member stack rooted in ICSN open standards, human identity, and member authority](assets/m5pod-stack.png)](https://github.com/TitleChain-Foundation/icsn-standards/tree/main/assets/public-review)
+<p align="center">
+  <a href="https://github.com/TitleChain-Foundation/icsn-standards/tree/main/assets/public-review">
+    <img src="assets/m5pod-stack.png" width="560" alt="M5POD private member stack rooted in ICSN open standards, human identity, and member authority">
+  </a>
+</p>
 
 | Human-authorized wallet and agent controls | Economic and rights layers |
 | --- | --- |
@@ -124,15 +132,31 @@ The visuals are **Illustrative Public Review Drafts**. They are not adopted stan
 
 ## Featured projects
 
-Three public development simulations connect the Commons standards to assets,
-authority, financing boundaries, and accountable records. These are research
-and diligence projects, not offerings, approved transactions, or grants of authority.
+**We simulate every project end to end, in public, before anyone relies on it.**
+Each one uses real schemas, real code, and the same authority, title, evidence,
+and financing steps a live operator would follow, with synthetic data. Anyone
+can inspect, test, and challenge the process before it touches a real building,
+farm, animal, or dollar.
+
+**Our goal is to pass the [Sovereign Compute Access Act](https://github.com/TitleChain-Foundation/icsn-standards/blob/main/legislation/sovereign-compute-access-act/OFFICIAL-TEXT.md).**
+The projects below show what the Act would make possible for everyone: any
+person, family business, or cooperative running its own entity with sovereign
+AI, local compute, and private data that it owns, with AI agents that answer to
+the humans who authorize them. The Act is model legislation for public review.
+It is not enacted law and has not been introduced.
+
+These are research and diligence simulations, not offerings, approved
+transactions, or grants of authority.
 
 ### GSA / CRE
 
 #### 312 Spring Commons — California
 
-[![312 Spring Commons concept plaza](https://raw.githubusercontent.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/main/pilots/312-spring-commons/documents/images/312-spring-commons-concept-plaza.jpg)](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/312-spring-commons/README.md)
+<p align="center">
+  <a href="https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/312-spring-commons/README.md">
+    <img src="https://raw.githubusercontent.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/main/pilots/312-spring-commons/documents/images/312-spring-commons-concept-plaza.jpg" width="560" alt="312 Spring Commons concept plaza">
+  </a>
+</p>
 
 A public real-estate and historic-reuse simulation centered on 312 N. Spring
 Street, Los Angeles. It connects GSA disposition diligence, title and public-owner
@@ -152,7 +176,11 @@ status, deposit-taking, committed financing, or regulated-intermediary status.
 
 #### America's People's Trust Farmland
 
-[![America's People's Trust Farmland project vision](https://raw.githubusercontent.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/main/pilots/peoples-trust/visuals/00-project-wish-list.png)](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/peoples-trust/README.md)
+<p align="center">
+  <a href="https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/peoples-trust/README.md">
+    <img src="https://raw.githubusercontent.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/main/pilots/peoples-trust/visuals/00-project-wish-list.png" width="560" alt="America's People's Trust Farmland project vision">
+  </a>
+</p>
 
 A repeatable stewardship simulation connecting farmland, food production, local
 operators, title and economic-right separation, correction, and portable evidence.
@@ -165,11 +193,53 @@ controlled, under contract, or offered by the Foundation or People's Trust.
 [Explore the Farmland simulation](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/peoples-trust/README.md) ·
 [Capital & Operating Partner Brief](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/peoples-trust/CAPITAL-AND-OPERATING-PARTNER-BRIEF.md)
 
+#### Norton Ranch Blueprint — M5 Sovereign Agriculture
+
+<p align="center">
+  <a href="https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/norton-ranch-blueprint/README.md">
+    <img src="https://raw.githubusercontent.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/main/pilots/norton-ranch-blueprint/assets/founder/robert-norton-pamela-norton-01.JPG" width="560" alt="Robert Norton holding his granddaughter Pamela Norton as a baby in a family backyard">
+  </a>
+</p>
+
+*If my grandfather were here today, he would be the first customer I would want to serve.*
+
+The farmland work, packaged so farmers and ranchers can run it themselves.
+Robert Norton built Central Packing Co., one of the early Colorado meat companies
+exporting American beef to Japan. The blueprint carries that family business
+forward: know where the food comes from, stand behind it, and never make the
+producer surrender control to participate. **The animal is not the subscription.**
+
+**One download, on your own computer.** The complete Blueprint is a single
+verified package: documents, farm, herd, animal, and device schemas, synthetic
+examples, free and public data registries, and the local-only **Sovereign Herd**
+utility. It runs with no network connection and no vendor cloud. Plan your
+records today and keep the data on your own machine.
+
+> [!IMPORTANT]
+> **Not a licensed M5POD until you register and activate.** The download is an
+> unregistered commons starter. It becomes part of a licensed M5POD only after you
+> [register](https://m5bank.app/), [activate your M5POD](https://m5podactivationdemo.netlify.app/),
+> register your farm or ranch entity, and activate the M5 farm tools.
+
+**What the Act would guarantee, at ranch scale:** free local open-weight AI in
+your own Sovereign Pod (Sec. 101), farm data that remains your property (Sec. 202),
+and agents that act only on authority you can revoke (Sec. 203).
+
+[**Download the M5POD starter package**](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/norton-ranch-blueprint/M5POD-PACKAGE.md) ·
+[Explore the Norton Ranch Blueprint](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/norton-ranch-blueprint/README.md) ·
+[Farmer Toolkit](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/norton-ranch-blueprint/FARMER-TOOLKIT.md) ·
+[Why it matters: the Act](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/norton-ranch-blueprint/M5POD-PACKAGE.md#why-this-matters-the-sovereign-compute-access-act) ·
+[Read the founder's dedication](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/norton-ranch-blueprint/WHY-THIS-COMMONS-EXISTS.md)
+
 ### GLOBAL DEVELOPMENT PROJECT
 
 #### Global UN Commons — UN-NY-0001
 
-[![Global UN Commons V1 concept masterplan](https://raw.githubusercontent.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/main/pilots/global-un-commons/visuals/v1-un-commons-18-acre-masterplan.png)](https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/global-un-commons/README.md)
+<p align="center">
+  <a href="https://github.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/blob/main/pilots/global-un-commons/README.md">
+    <img src="https://raw.githubusercontent.com/TitleChain-Foundation/M5-AI-Sovereign-Commons/main/pilots/global-un-commons/visuals/v1-un-commons-18-acre-masterplan.png" width="560" alt="Global UN Commons V1 concept masterplan">
+  </a>
+</p>
 
 *Global UN Commons — concept and design by TitleChain Foundation (2026).*
 
